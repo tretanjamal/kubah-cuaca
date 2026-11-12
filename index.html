@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="theme-color" content="#1E3A4C">
+<meta name="mobile-web-app-capable" content="yes">
+<title>Kubah Cuaca: How Many Clouds? How Much Rain?</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath d='M6 40V24Q6 8 24 8Q42 8 42 24V40Z' fill='%23CFEFE4' stroke='%231E3A4C' stroke-width='4' stroke-linejoin='round'/%3E%3Cpath d='M14 26Q14 19 21 20Q24 14 30 18Q36 18 35 25Z' fill='%23FBF8F2' stroke='%231E3A4C' stroke-width='3' stroke-linejoin='round'/%3E%3Cpath d='M18 31v4M25 31v4M32 31v4' stroke='%234FA3E0' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="css/gaya.css">
+<script>
+/* pengaman ringan (dari Kafe Cilik): tanpa klik kanan, salin, potong, tempel, dan Ctrl+U, tanpa pemberitahuan. */
+(function () {
+  function cegah(e) { var t = e.target && e.target.tagName; if (t === 'INPUT' || (e.type === 'copy' && t === 'TEXTAREA')) return; e.preventDefault(); }
+  ['contextmenu', 'copy', 'cut', 'paste'].forEach(function (n) { document.addEventListener(n, cegah, true); });
+  document.addEventListener('keydown', function (e) { if ((e.ctrlKey || e.metaKey) && (e.key === 'u' || e.key === 'U' || e.keyCode === 85)) e.preventDefault(); }, true);
+})();
+</script>
+</head>
+<body>
+<div id="stage">
+  <div id="scene-root"></div>
+  <div id="cover"></div>
+</div>
+<div id="rotate"><svg viewBox="0 0 100 100" aria-hidden="true"><rect x="30" y="8" width="40" height="84" rx="8" fill="none" stroke="#FBF8F2" stroke-width="6"/><circle cx="50" cy="80" r="4" fill="#FBF8F2"/><path d="M84 40a30 30 0 0 1-10 34" fill="none" stroke="#FFC94A" stroke-width="6" stroke-linecap="round"/></svg><div id="rotate-text"></div></div>
+<script src="js/data/strings.js"></script>
+<script src="config/benda.js"></script>
+<script src="config/kuantitas.js"></script>
+<script src="config/fenomena.js"></script>
+<script src="config/permintaan.js"></script>
+<script src="config/suara.js"></script>
+<script src="js/data/aset.js"></script>
+<script src="js/engine/util.js"></script>
+<script src="js/engine/tween.js"></script>
+<script src="js/engine/save.js"></script>
+<script src="js/engine/audio.js"></script>
+<script src="js/engine/scene.js"></script>
+<script src="js/engine/fullscreen.js"></script>
+<script src="js/engine/input.js"></script>
+<script src="js/engine/seni.js"></script>
+<script src="js/engine/ui.js"></script>
+<script src="js/engine/muat.js"></script>
+<script src="js/engine/kuantitas.js"></script>
+<script src="js/engine/tugas.js"></script>
+<script src="js/engine/adaptif.js"></script>
+<script src="js/engine/alat.js"></script>
+<script src="js/engine/jendela.js"></script>
+<script src="js/engine/kubah.js"></script>
+<script src="js/engine/kartu.js"></script>
+<script src="js/scenes/bersama.js"></script>
+<script src="js/scenes/judul.js"></script>
+<script src="js/scenes/level1.js"></script>
+<script src="js/scenes/jurnal.js"></script>
+<script src="js/scenes/belajar.js"></script>
+<script src="js/scenes/alur.js"></script>
+<script src="js/scenes/level2.js"></script>
+<script src="js/scenes/level3.js"></script>
+<script src="js/scenes/level4.js"></script>
+<script src="js/scenes/level5.js"></script>
+<script src="js/scenes/level6.js"></script>
+<script src="js/scenes/labBebas.js"></script>
+<script src="js/scenes/stasiun.js"></script>
+<script src="js/scenes/hasil.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

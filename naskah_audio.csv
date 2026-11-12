@@ -1,0 +1,695 @@
+﻿id,pembicara,bahasa,teks,teks_ucap,konteks
+bayu_sambut,bayu,en-US,"Welcome, assistant! We count clouds. We measure rain.","Welcome, assistant! We count clouds. We measure rain.",Hook: sambutan sesudah awan dan hujan
+bayu_kiriman,bayu,en-US,New supplies are here! Choose the right tool.,New supplies are here! Choose the right tool.,Level 1: kiriman datang
+bayu_ini_kites,bayu,en-US,Here are some kites.,Here are some kites.,Level 1: kapsul kites
+bayu_ini_wind,bayu,en-US,Here is some wind.,Here is some wind.,Level 1: kapsul wind
+bayu_ini_sunshine,bayu,en-US,Here is some sunshine.,Here is some sunshine.,Level 1: kapsul sunshine
+bayu_ini_umbrellas,bayu,en-US,Here are some umbrellas.,Here are some umbrellas.,Level 1: kapsul umbrellas
+bayu_ini_sand,bayu,en-US,Here is some sand.,Here is some sand.,Level 1: kapsul sand
+bayu_ini_boats,bayu,en-US,Here are some boats.,Here are some boats.,Level 1: kapsul boats
+bayu_ini_fog,bayu,en-US,Here is some fog.,Here is some fog.,Level 1: kapsul fog
+bayu_ini_snow,bayu,en-US,Here is some snow.,Here is some snow.,Level 1: kapsul snow
+bayu_ini_water,bayu,en-US,Here is some water.,Here is some water.,Level 1: kapsul water
+bayu_lensa,bayu,en-US,Let's look closer!,Let's look closer!,Level 1: lensa
+bayu_lensaHujan,bayu,en-US,We measure rain. We count raindrops!,We measure rain. We count raindrops!,Level 1: lensaHujan
+bayu_lensaSalju,bayu,en-US,We measure snow. We count snowflakes!,We measure snow. We count snowflakes!,Level 1: lensaSalju
+bayu_selesai,bayu,en-US,Great job! All the tools are ready.,Great job! All the tools are ready.,Level 1: selesai
+bayu_hebat,bayu,en-US,Great!,Great!,Level 1: hebat
+papan_clouds_0_positif,papan,en-US,There are no clouds.,There are no clouds.,Papan Kalimat: clouds 0 (positif)
+papan_clouds_0_tanya,papan,en-US,How many clouds are there?,How many clouds are there?,Papan Kalimat: clouds 0 (tanya)
+papan_clouds_0_negatif,papan,en-US,There aren't any clouds.,There aren't any clouds.,Papan Kalimat: clouds 0 (negatif)
+papan_clouds_1_positif,papan,en-US,There is a cloud.,There is a cloud.,Papan Kalimat: clouds 1 (positif)
+papan_clouds_1_tanya_jawab,papan,en-US,There is one cloud.,There is one cloud.,Papan Kalimat: clouds 1 (tanya)
+papan_clouds_1_negatif,papan,en-US,There aren't many clouds.,There aren't many clouds.,Papan Kalimat: clouds 1 (negatif)
+papan_clouds_2_positif,papan,en-US,There are a few clouds.,There are a few clouds.,Papan Kalimat: clouds 2 (positif)
+papan_clouds_5_positif,papan,en-US,There are five clouds.,There are five clouds.,Papan Kalimat: clouds 5 (positif)
+papan_clouds_6_positif,papan,en-US,There are six clouds.,There are six clouds.,Papan Kalimat: clouds 6 (positif)
+papan_clouds_7_positif,papan,en-US,There are seven clouds.,There are seven clouds.,Papan Kalimat: clouds 7 (positif)
+papan_clouds_8_positif,papan,en-US,There are a lot of clouds.,There are a lot of clouds.,Papan Kalimat: clouds 8 (positif)
+papan_kites_0_positif,papan,en-US,There are no kites.,There are no kites.,Papan Kalimat: kites 0 (positif)
+papan_kites_0_tanya,papan,en-US,How many kites are there?,How many kites are there?,Papan Kalimat: kites 0 (tanya)
+papan_kites_0_negatif,papan,en-US,There aren't any kites.,There aren't any kites.,Papan Kalimat: kites 0 (negatif)
+papan_kites_1_positif,papan,en-US,There is a kite.,There is a kite.,Papan Kalimat: kites 1 (positif)
+papan_kites_1_tanya_jawab,papan,en-US,There is one kite.,There is one kite.,Papan Kalimat: kites 1 (tanya)
+papan_kites_1_negatif,papan,en-US,There aren't many kites.,There aren't many kites.,Papan Kalimat: kites 1 (negatif)
+papan_kites_2_positif,papan,en-US,There are a few kites.,There are a few kites.,Papan Kalimat: kites 2 (positif)
+papan_kites_5_positif,papan,en-US,There are five kites.,There are five kites.,Papan Kalimat: kites 5 (positif)
+papan_kites_6_positif,papan,en-US,There are six kites.,There are six kites.,Papan Kalimat: kites 6 (positif)
+papan_kites_7_positif,papan,en-US,There are seven kites.,There are seven kites.,Papan Kalimat: kites 7 (positif)
+papan_kites_8_positif,papan,en-US,There are a lot of kites.,There are a lot of kites.,Papan Kalimat: kites 8 (positif)
+papan_umbrellas_0_positif,papan,en-US,There are no umbrellas.,There are no umbrellas.,Papan Kalimat: umbrellas 0 (positif)
+papan_umbrellas_0_tanya,papan,en-US,How many umbrellas are there?,How many umbrellas are there?,Papan Kalimat: umbrellas 0 (tanya)
+papan_umbrellas_0_negatif,papan,en-US,There aren't any umbrellas.,There aren't any umbrellas.,Papan Kalimat: umbrellas 0 (negatif)
+papan_umbrellas_1_positif,papan,en-US,There is an umbrella.,There is an umbrella.,Papan Kalimat: umbrellas 1 (positif)
+papan_umbrellas_1_tanya_jawab,papan,en-US,There is one umbrella.,There is one umbrella.,Papan Kalimat: umbrellas 1 (tanya)
+papan_umbrellas_1_negatif,papan,en-US,There aren't many umbrellas.,There aren't many umbrellas.,Papan Kalimat: umbrellas 1 (negatif)
+papan_umbrellas_2_positif,papan,en-US,There are a few umbrellas.,There are a few umbrellas.,Papan Kalimat: umbrellas 2 (positif)
+papan_umbrellas_5_positif,papan,en-US,There are five umbrellas.,There are five umbrellas.,Papan Kalimat: umbrellas 5 (positif)
+papan_umbrellas_6_positif,papan,en-US,There are six umbrellas.,There are six umbrellas.,Papan Kalimat: umbrellas 6 (positif)
+papan_umbrellas_7_positif,papan,en-US,There are seven umbrellas.,There are seven umbrellas.,Papan Kalimat: umbrellas 7 (positif)
+papan_umbrellas_8_positif,papan,en-US,There are a lot of umbrellas.,There are a lot of umbrellas.,Papan Kalimat: umbrellas 8 (positif)
+papan_boats_0_positif,papan,en-US,There are no boats.,There are no boats.,Papan Kalimat: boats 0 (positif)
+papan_boats_0_tanya,papan,en-US,How many boats are there?,How many boats are there?,Papan Kalimat: boats 0 (tanya)
+papan_boats_0_negatif,papan,en-US,There aren't any boats.,There aren't any boats.,Papan Kalimat: boats 0 (negatif)
+papan_boats_1_positif,papan,en-US,There is a boat.,There is a boat.,Papan Kalimat: boats 1 (positif)
+papan_boats_1_tanya_jawab,papan,en-US,There is one boat.,There is one boat.,Papan Kalimat: boats 1 (tanya)
+papan_boats_1_negatif,papan,en-US,There aren't many boats.,There aren't many boats.,Papan Kalimat: boats 1 (negatif)
+papan_boats_2_positif,papan,en-US,There are a few boats.,There are a few boats.,Papan Kalimat: boats 2 (positif)
+papan_boats_5_positif,papan,en-US,There are five boats.,There are five boats.,Papan Kalimat: boats 5 (positif)
+papan_boats_6_positif,papan,en-US,There are six boats.,There are six boats.,Papan Kalimat: boats 6 (positif)
+papan_boats_7_positif,papan,en-US,There are seven boats.,There are seven boats.,Papan Kalimat: boats 7 (positif)
+papan_boats_8_positif,papan,en-US,There are a lot of boats.,There are a lot of boats.,Papan Kalimat: boats 8 (positif)
+papan_rain_0_positif,papan,en-US,There is no rain.,There is no rain.,Papan Kalimat: rain 0 (positif)
+papan_rain_0_tanya,papan,en-US,How much rain is there?,How much rain is there?,Papan Kalimat: rain 0 (tanya)
+papan_rain_0_negatif,papan,en-US,There isn't any rain.,There isn't any rain.,Papan Kalimat: rain 0 (negatif)
+papan_rain_10_positif,papan,en-US,There is a little rain.,There is a little rain.,Papan Kalimat: rain 10 (positif)
+papan_rain_10_negatif,papan,en-US,There isn't much rain.,There isn't much rain.,Papan Kalimat: rain 10 (negatif)
+papan_rain_40_positif,papan,en-US,There is some rain.,There is some rain.,Papan Kalimat: rain 40 (positif)
+papan_rain_70_positif,papan,en-US,There is a lot of rain.,There is a lot of rain.,Papan Kalimat: rain 70 (positif)
+papan_snow_0_positif,papan,en-US,There is no snow.,There is no snow.,Papan Kalimat: snow 0 (positif)
+papan_snow_0_tanya,papan,en-US,How much snow is there?,How much snow is there?,Papan Kalimat: snow 0 (tanya)
+papan_snow_0_negatif,papan,en-US,There isn't any snow.,There isn't any snow.,Papan Kalimat: snow 0 (negatif)
+papan_snow_10_positif,papan,en-US,There is a little snow.,There is a little snow.,Papan Kalimat: snow 10 (positif)
+papan_snow_10_negatif,papan,en-US,There isn't much snow.,There isn't much snow.,Papan Kalimat: snow 10 (negatif)
+papan_snow_40_positif,papan,en-US,There is some snow.,There is some snow.,Papan Kalimat: snow 40 (positif)
+papan_snow_70_positif,papan,en-US,There is a lot of snow.,There is a lot of snow.,Papan Kalimat: snow 70 (positif)
+papan_wind_0_positif,papan,en-US,There is no wind.,There is no wind.,Papan Kalimat: wind 0 (positif)
+papan_wind_0_tanya,papan,en-US,How much wind is there?,How much wind is there?,Papan Kalimat: wind 0 (tanya)
+papan_wind_0_negatif,papan,en-US,There isn't any wind.,There isn't any wind.,Papan Kalimat: wind 0 (negatif)
+papan_wind_10_positif,papan,en-US,There is a little wind.,There is a little wind.,Papan Kalimat: wind 10 (positif)
+papan_wind_10_negatif,papan,en-US,There isn't much wind.,There isn't much wind.,Papan Kalimat: wind 10 (negatif)
+papan_wind_40_positif,papan,en-US,There is some wind.,There is some wind.,Papan Kalimat: wind 40 (positif)
+papan_wind_70_positif,papan,en-US,There is a lot of wind.,There is a lot of wind.,Papan Kalimat: wind 70 (positif)
+papan_sunshine_0_positif,papan,en-US,There is no sunshine.,There is no sunshine.,Papan Kalimat: sunshine 0 (positif)
+papan_sunshine_0_tanya,papan,en-US,How much sunshine is there?,How much sunshine is there?,Papan Kalimat: sunshine 0 (tanya)
+papan_sunshine_0_negatif,papan,en-US,There isn't any sunshine.,There isn't any sunshine.,Papan Kalimat: sunshine 0 (negatif)
+papan_sunshine_10_positif,papan,en-US,There is a little sunshine.,There is a little sunshine.,Papan Kalimat: sunshine 10 (positif)
+papan_sunshine_10_negatif,papan,en-US,There isn't much sunshine.,There isn't much sunshine.,Papan Kalimat: sunshine 10 (negatif)
+papan_sunshine_40_positif,papan,en-US,There is some sunshine.,There is some sunshine.,Papan Kalimat: sunshine 40 (positif)
+papan_sunshine_70_positif,papan,en-US,There is a lot of sunshine.,There is a lot of sunshine.,Papan Kalimat: sunshine 70 (positif)
+papan_fog_0_positif,papan,en-US,There is no fog.,There is no fog.,Papan Kalimat: fog 0 (positif)
+papan_fog_0_tanya,papan,en-US,How much fog is there?,How much fog is there?,Papan Kalimat: fog 0 (tanya)
+papan_fog_0_negatif,papan,en-US,There isn't any fog.,There isn't any fog.,Papan Kalimat: fog 0 (negatif)
+papan_fog_10_positif,papan,en-US,There is a little fog.,There is a little fog.,Papan Kalimat: fog 10 (positif)
+papan_fog_10_negatif,papan,en-US,There isn't much fog.,There isn't much fog.,Papan Kalimat: fog 10 (negatif)
+papan_fog_40_positif,papan,en-US,There is some fog.,There is some fog.,Papan Kalimat: fog 40 (positif)
+papan_fog_70_positif,papan,en-US,There is a lot of fog.,There is a lot of fog.,Papan Kalimat: fog 70 (positif)
+papan_water_0_positif,papan,en-US,There is no water.,There is no water.,Papan Kalimat: water 0 (positif)
+papan_water_0_tanya,papan,en-US,How much water is there?,How much water is there?,Papan Kalimat: water 0 (tanya)
+papan_water_0_negatif,papan,en-US,There isn't any water.,There isn't any water.,Papan Kalimat: water 0 (negatif)
+papan_water_10_positif,papan,en-US,There is a little water.,There is a little water.,Papan Kalimat: water 10 (positif)
+papan_water_10_negatif,papan,en-US,There isn't much water.,There isn't much water.,Papan Kalimat: water 10 (negatif)
+papan_water_40_positif,papan,en-US,There is some water.,There is some water.,Papan Kalimat: water 40 (positif)
+papan_water_70_positif,papan,en-US,There is a lot of water.,There is a lot of water.,Papan Kalimat: water 70 (positif)
+papan_sand_0_positif,papan,en-US,There is no sand.,There is no sand.,Papan Kalimat: sand 0 (positif)
+papan_sand_0_tanya,papan,en-US,How much sand is there?,How much sand is there?,Papan Kalimat: sand 0 (tanya)
+papan_sand_0_negatif,papan,en-US,There isn't any sand.,There isn't any sand.,Papan Kalimat: sand 0 (negatif)
+papan_sand_10_positif,papan,en-US,There is a little sand.,There is a little sand.,Papan Kalimat: sand 10 (positif)
+papan_sand_10_negatif,papan,en-US,There isn't much sand.,There isn't much sand.,Papan Kalimat: sand 10 (negatif)
+papan_sand_40_positif,papan,en-US,There is some sand.,There is some sand.,Papan Kalimat: sand 40 (positif)
+papan_sand_70_positif,papan,en-US,There is a lot of sand.,There is a lot of sand.,Papan Kalimat: sand 70 (positif)
+papan_raindrops_0_positif,papan,en-US,There are no raindrops.,There are no raindrops.,Papan Kalimat: raindrops 0 (positif)
+papan_raindrops_0_tanya,papan,en-US,How many raindrops are there?,How many raindrops are there?,Papan Kalimat: raindrops 0 (tanya)
+papan_raindrops_0_negatif,papan,en-US,There aren't any raindrops.,There aren't any raindrops.,Papan Kalimat: raindrops 0 (negatif)
+papan_raindrops_1_positif,papan,en-US,There is a raindrop.,There is a raindrop.,Papan Kalimat: raindrops 1 (positif)
+papan_raindrops_1_tanya_jawab,papan,en-US,There is one raindrop.,There is one raindrop.,Papan Kalimat: raindrops 1 (tanya)
+papan_raindrops_1_negatif,papan,en-US,There aren't many raindrops.,There aren't many raindrops.,Papan Kalimat: raindrops 1 (negatif)
+papan_raindrops_2_positif,papan,en-US,There are a few raindrops.,There are a few raindrops.,Papan Kalimat: raindrops 2 (positif)
+papan_raindrops_5_positif,papan,en-US,There are five raindrops.,There are five raindrops.,Papan Kalimat: raindrops 5 (positif)
+papan_raindrops_6_positif,papan,en-US,There are six raindrops.,There are six raindrops.,Papan Kalimat: raindrops 6 (positif)
+papan_raindrops_7_positif,papan,en-US,There are seven raindrops.,There are seven raindrops.,Papan Kalimat: raindrops 7 (positif)
+papan_raindrops_8_positif,papan,en-US,There are a lot of raindrops.,There are a lot of raindrops.,Papan Kalimat: raindrops 8 (positif)
+papan_snowflakes_0_positif,papan,en-US,There are no snowflakes.,There are no snowflakes.,Papan Kalimat: snowflakes 0 (positif)
+papan_snowflakes_0_tanya,papan,en-US,How many snowflakes are there?,How many snowflakes are there?,Papan Kalimat: snowflakes 0 (tanya)
+papan_snowflakes_0_negatif,papan,en-US,There aren't any snowflakes.,There aren't any snowflakes.,Papan Kalimat: snowflakes 0 (negatif)
+papan_snowflakes_1_positif,papan,en-US,There is a snowflake.,There is a snowflake.,Papan Kalimat: snowflakes 1 (positif)
+papan_snowflakes_1_tanya_jawab,papan,en-US,There is one snowflake.,There is one snowflake.,Papan Kalimat: snowflakes 1 (tanya)
+papan_snowflakes_1_negatif,papan,en-US,There aren't many snowflakes.,There aren't many snowflakes.,Papan Kalimat: snowflakes 1 (negatif)
+papan_snowflakes_2_positif,papan,en-US,There are a few snowflakes.,There are a few snowflakes.,Papan Kalimat: snowflakes 2 (positif)
+papan_snowflakes_5_positif,papan,en-US,There are five snowflakes.,There are five snowflakes.,Papan Kalimat: snowflakes 5 (positif)
+papan_snowflakes_6_positif,papan,en-US,There are six snowflakes.,There are six snowflakes.,Papan Kalimat: snowflakes 6 (positif)
+papan_snowflakes_7_positif,papan,en-US,There are seven snowflakes.,There are seven snowflakes.,Papan Kalimat: snowflakes 7 (positif)
+papan_snowflakes_8_positif,papan,en-US,There are a lot of snowflakes.,There are a lot of snowflakes.,Papan Kalimat: snowflakes 8 (positif)
+papan_puddles_0_positif,papan,en-US,There are no puddles.,There are no puddles.,Papan Kalimat: puddles 0 (positif)
+papan_puddles_0_tanya,papan,en-US,How many puddles are there?,How many puddles are there?,Papan Kalimat: puddles 0 (tanya)
+papan_puddles_0_negatif,papan,en-US,There aren't any puddles.,There aren't any puddles.,Papan Kalimat: puddles 0 (negatif)
+papan_puddles_1_positif,papan,en-US,There is a puddle.,There is a puddle.,Papan Kalimat: puddles 1 (positif)
+papan_puddles_1_tanya_jawab,papan,en-US,There is one puddle.,There is one puddle.,Papan Kalimat: puddles 1 (tanya)
+papan_puddles_1_negatif,papan,en-US,There aren't many puddles.,There aren't many puddles.,Papan Kalimat: puddles 1 (negatif)
+papan_puddles_2_positif,papan,en-US,There are a few puddles.,There are a few puddles.,Papan Kalimat: puddles 2 (positif)
+papan_puddles_5_positif,papan,en-US,There are five puddles.,There are five puddles.,Papan Kalimat: puddles 5 (positif)
+papan_puddles_6_positif,papan,en-US,There are six puddles.,There are six puddles.,Papan Kalimat: puddles 6 (positif)
+papan_puddles_7_positif,papan,en-US,There are seven puddles.,There are seven puddles.,Papan Kalimat: puddles 7 (positif)
+papan_puddles_8_positif,papan,en-US,There are a lot of puddles.,There are a lot of puddles.,Papan Kalimat: puddles 8 (positif)
+papan_frogs_0_positif,papan,en-US,There are no frogs.,There are no frogs.,Papan Kalimat: frogs 0 (positif)
+papan_frogs_0_tanya,papan,en-US,How many frogs are there?,How many frogs are there?,Papan Kalimat: frogs 0 (tanya)
+papan_frogs_0_negatif,papan,en-US,There aren't any frogs.,There aren't any frogs.,Papan Kalimat: frogs 0 (negatif)
+papan_frogs_1_positif,papan,en-US,There is a frog.,There is a frog.,Papan Kalimat: frogs 1 (positif)
+papan_frogs_1_tanya_jawab,papan,en-US,There is one frog.,There is one frog.,Papan Kalimat: frogs 1 (tanya)
+papan_frogs_1_negatif,papan,en-US,There aren't many frogs.,There aren't many frogs.,Papan Kalimat: frogs 1 (negatif)
+papan_frogs_2_positif,papan,en-US,There are a few frogs.,There are a few frogs.,Papan Kalimat: frogs 2 (positif)
+papan_frogs_5_positif,papan,en-US,There are five frogs.,There are five frogs.,Papan Kalimat: frogs 5 (positif)
+papan_frogs_6_positif,papan,en-US,There are six frogs.,There are six frogs.,Papan Kalimat: frogs 6 (positif)
+papan_frogs_7_positif,papan,en-US,There are seven frogs.,There are seven frogs.,Papan Kalimat: frogs 7 (positif)
+papan_frogs_8_positif,papan,en-US,There are a lot of frogs.,There are a lot of frogs.,Papan Kalimat: frogs 8 (positif)
+papan_leaves_0_positif,papan,en-US,There are no leaves.,There are no leaves.,Papan Kalimat: leaves 0 (positif)
+papan_leaves_0_tanya,papan,en-US,How many leaves are there?,How many leaves are there?,Papan Kalimat: leaves 0 (tanya)
+papan_leaves_0_negatif,papan,en-US,There aren't any leaves.,There aren't any leaves.,Papan Kalimat: leaves 0 (negatif)
+papan_leaves_1_positif,papan,en-US,There is a leaf.,There is a leaf.,Papan Kalimat: leaves 1 (positif)
+papan_leaves_1_tanya_jawab,papan,en-US,There is one leaf.,There is one leaf.,Papan Kalimat: leaves 1 (tanya)
+papan_leaves_1_negatif,papan,en-US,There aren't many leaves.,There aren't many leaves.,Papan Kalimat: leaves 1 (negatif)
+papan_leaves_2_positif,papan,en-US,There are a few leaves.,There are a few leaves.,Papan Kalimat: leaves 2 (positif)
+papan_leaves_5_positif,papan,en-US,There are five leaves.,There are five leaves.,Papan Kalimat: leaves 5 (positif)
+papan_leaves_6_positif,papan,en-US,There are six leaves.,There are six leaves.,Papan Kalimat: leaves 6 (positif)
+papan_leaves_7_positif,papan,en-US,There are seven leaves.,There are seven leaves.,Papan Kalimat: leaves 7 (positif)
+papan_leaves_8_positif,papan,en-US,There are a lot of leaves.,There are a lot of leaves.,Papan Kalimat: leaves 8 (positif)
+papan_fish_0_positif,papan,en-US,There are no fish.,There are no fish.,Papan Kalimat: fish 0 (positif)
+papan_fish_0_tanya,papan,en-US,How many fish are there?,How many fish are there?,Papan Kalimat: fish 0 (tanya)
+papan_fish_0_negatif,papan,en-US,There aren't any fish.,There aren't any fish.,Papan Kalimat: fish 0 (negatif)
+papan_fish_1_positif,papan,en-US,There is a fish.,There is a fish.,Papan Kalimat: fish 1 (positif)
+papan_fish_1_tanya_jawab,papan,en-US,There is one fish.,There is one fish.,Papan Kalimat: fish 1 (tanya)
+papan_fish_1_negatif,papan,en-US,There aren't many fish.,There aren't many fish.,Papan Kalimat: fish 1 (negatif)
+papan_fish_2_positif,papan,en-US,There are a few fish.,There are a few fish.,Papan Kalimat: fish 2 (positif)
+papan_fish_5_positif,papan,en-US,There are five fish.,There are five fish.,Papan Kalimat: fish 5 (positif)
+papan_fish_6_positif,papan,en-US,There are six fish.,There are six fish.,Papan Kalimat: fish 6 (positif)
+papan_fish_7_positif,papan,en-US,There are seven fish.,There are seven fish.,Papan Kalimat: fish 7 (positif)
+papan_fish_8_positif,papan,en-US,There are a lot of fish.,There are a lot of fish.,Papan Kalimat: fish 8 (positif)
+papan_rainbows_0_positif,papan,en-US,There are no rainbows.,There are no rainbows.,Papan Kalimat: rainbows 0 (positif)
+papan_rainbows_0_tanya,papan,en-US,How many rainbows are there?,How many rainbows are there?,Papan Kalimat: rainbows 0 (tanya)
+papan_rainbows_0_negatif,papan,en-US,There aren't any rainbows.,There aren't any rainbows.,Papan Kalimat: rainbows 0 (negatif)
+papan_rainbows_1_positif,papan,en-US,There is a rainbow.,There is a rainbow.,Papan Kalimat: rainbows 1 (positif)
+papan_rainbows_1_tanya_jawab,papan,en-US,There is one rainbow.,There is one rainbow.,Papan Kalimat: rainbows 1 (tanya)
+papan_rainbows_1_negatif,papan,en-US,There aren't many rainbows.,There aren't many rainbows.,Papan Kalimat: rainbows 1 (negatif)
+papan_rainbows_2_positif,papan,en-US,There are a few rainbows.,There are a few rainbows.,Papan Kalimat: rainbows 2 (positif)
+papan_rainbows_5_positif,papan,en-US,There are five rainbows.,There are five rainbows.,Papan Kalimat: rainbows 5 (positif)
+papan_rainbows_6_positif,papan,en-US,There are six rainbows.,There are six rainbows.,Papan Kalimat: rainbows 6 (positif)
+papan_rainbows_7_positif,papan,en-US,There are seven rainbows.,There are seven rainbows.,Papan Kalimat: rainbows 7 (positif)
+papan_rainbows_8_positif,papan,en-US,There are a lot of rainbows.,There are a lot of rainbows.,Papan Kalimat: rainbows 8 (positif)
+papan_stars_0_positif,papan,en-US,There are no stars.,There are no stars.,Papan Kalimat: stars 0 (positif)
+papan_stars_0_tanya,papan,en-US,How many stars are there?,How many stars are there?,Papan Kalimat: stars 0 (tanya)
+papan_stars_0_negatif,papan,en-US,There aren't any stars.,There aren't any stars.,Papan Kalimat: stars 0 (negatif)
+papan_stars_1_positif,papan,en-US,There is a star.,There is a star.,Papan Kalimat: stars 1 (positif)
+papan_stars_1_tanya_jawab,papan,en-US,There is one star.,There is one star.,Papan Kalimat: stars 1 (tanya)
+papan_stars_1_negatif,papan,en-US,There aren't many stars.,There aren't many stars.,Papan Kalimat: stars 1 (negatif)
+papan_stars_2_positif,papan,en-US,There are a few stars.,There are a few stars.,Papan Kalimat: stars 2 (positif)
+papan_stars_5_positif,papan,en-US,There are five stars.,There are five stars.,Papan Kalimat: stars 5 (positif)
+papan_stars_6_positif,papan,en-US,There are six stars.,There are six stars.,Papan Kalimat: stars 6 (positif)
+papan_stars_7_positif,papan,en-US,There are seven stars.,There are seven stars.,Papan Kalimat: stars 7 (positif)
+papan_stars_8_positif,papan,en-US,There are a lot of stars.,There are a lot of stars.,Papan Kalimat: stars 8 (positif)
+papan_salt_0_positif,papan,en-US,There is no salt.,There is no salt.,Papan Kalimat: salt 0 (positif)
+papan_salt_0_tanya,papan,en-US,How much salt is there?,How much salt is there?,Papan Kalimat: salt 0 (tanya)
+papan_salt_0_negatif,papan,en-US,There isn't any salt.,There isn't any salt.,Papan Kalimat: salt 0 (negatif)
+papan_salt_10_positif,papan,en-US,There is a little salt.,There is a little salt.,Papan Kalimat: salt 10 (positif)
+papan_salt_10_negatif,papan,en-US,There isn't much salt.,There isn't much salt.,Papan Kalimat: salt 10 (negatif)
+papan_salt_40_positif,papan,en-US,There is some salt.,There is some salt.,Papan Kalimat: salt 40 (positif)
+papan_salt_70_positif,papan,en-US,There is a lot of salt.,There is a lot of salt.,Papan Kalimat: salt 70 (positif)
+bayu2_l2Sambut,bayu,en-US,"Let's count! Clouds, kites, umbrellas, and boats.","Let's count! Clouds, kites, umbrellas, and boats.",Level 2-5: l2Sambut
+bayu2_l2Misi,bayu,en-US,Make a lot of clouds. What happens to the valley?,Make a lot of clouds. What happens to the valley?,Level 2-5: l2Misi
+bayu2_l3Sambut,bayu,en-US,"Now let's measure rain, sun, and wind.","Now let's measure rain, sun, and wind.",Level 2-5: l3Sambut
+bayu2_l3Misi,bayu,en-US,Rainbows need a lot of sunshine and a little rain.,Rainbows need a lot of sunshine and a little rain.,Level 2-5: l3Misi
+bayu2_lensaTanya,bayu,en-US,Now use the lens.,Now use the lens.,Level 2-5: lensaTanya
+bayu2_l4Sambut,bayu,en-US,It's night. Let's check the valley!,It's night. Let's check the valley!,Level 2-5: l4Sambut
+bayu2_l4Kabut,bayu,en-US,Please take away all the fog.,Please take away all the fog.,Level 2-5: l4Kabut
+bayu2_l4Perahu,bayu,en-US,"Add some boats, please.","Add some boats, please.",Level 2-5: l4Perahu
+bayu2_l4Awan,bayu,en-US,Please take away all the clouds.,Please take away all the clouds.,Level 2-5: l4Awan
+bayu2_l5Sambut,bayu,en-US,Festival day! Make everyone happy.,Festival day! Make everyone happy.,Level 2-5: l5Sambut
+bayu2_l5Siaran,bayu,en-US,Now let's tell the valley about the weather.,Now let's tell the valley about the weather.,Level 2-5: l5Siaran
+bayu2_l5Buka,bayu,en-US,Here is the weather for Dew Valley.,Here is the weather for Dew Valley.,Level 2-5: l5Buka
+bayu2_hebat,bayu,en-US,Great job!,Great job!,Level 2-5: hebat
+bayu2_lagi,bayu,en-US,Try again.,Try again.,Level 2-5: lagi
+bayu2_bagus,bayu,en-US,Good!,Good!,Level 2-5: bagus
+bayu2_terima,bayu,en-US,Thank you!,Thank you!,Level 2-5: terima
+bayu2_l6Sambut,bayu,en-US,Phone-in time! Our listeners have questions.,Phone-in time! Our listeners have questions.,Level 2-5: l6Sambut
+bayu2_l6Tutup,bayu,en-US,Thank you for calling!,Thank you for calling!,Level 2-5: l6Tutup
+bayu2_tebak,bayu,en-US,Guess first! Then press the button.,Guess first! Then press the button.,Level 2-5: tebak
+warga_dina_kites_few_0,dina,en-US,Please make a few kites.,Please make a few kites.,Permintaan Dina
+warga_dina_kites_few_1,dina,en-US,"We need a few kites, please.","We need a few kites, please.",Permintaan Dina
+warga_dina_kites_few_2,dina,en-US,Please add a few kites.,Please add a few kites.,Permintaan Dina
+warga_dina_kites_few_3,dina,en-US,"A few kites, please.","A few kites, please.",Permintaan Dina
+warga_dina_kites_lot_0,dina,en-US,Please make a lot of kites.,Please make a lot of kites.,Permintaan Dina
+warga_dina_kites_lot_1,dina,en-US,"We need a lot of kites, please.","We need a lot of kites, please.",Permintaan Dina
+warga_dina_kites_lot_2,dina,en-US,Please add a lot of kites.,Please add a lot of kites.,Permintaan Dina
+warga_dina_kites_lot_3,dina,en-US,"A lot of kites, please.","A lot of kites, please.",Permintaan Dina
+warga_dina_wind_lot_0,dina,en-US,Please make a lot of wind.,Please make a lot of wind.,Permintaan Dina
+warga_dina_wind_lot_1,dina,en-US,"We need a lot of wind, please.","We need a lot of wind, please.",Permintaan Dina
+warga_dina_wind_lot_2,dina,en-US,Please add a lot of wind.,Please add a lot of wind.,Permintaan Dina
+warga_dina_wind_lot_3,dina,en-US,"A lot of wind, please.","A lot of wind, please.",Permintaan Dina
+warga_dina_clouds_few_0,dina,en-US,Please make a few clouds.,Please make a few clouds.,Permintaan Dina
+warga_dina_clouds_few_1,dina,en-US,"We need a few clouds, please.","We need a few clouds, please.",Permintaan Dina
+warga_dina_clouds_few_2,dina,en-US,Please add a few clouds.,Please add a few clouds.,Permintaan Dina
+warga_dina_clouds_few_3,dina,en-US,"A few clouds, please.","A few clouds, please.",Permintaan Dina
+warga_dina_clouds_satu_0,dina,en-US,Please make a cloud.,Please make a cloud.,Permintaan Dina
+warga_dina_clouds_satu_1,dina,en-US,"We need a cloud, please.","We need a cloud, please.",Permintaan Dina
+warga_dina_clouds_satu_2,dina,en-US,Please add a cloud.,Please add a cloud.,Permintaan Dina
+warga_dina_clouds_satu_3,dina,en-US,"A cloud, please.","A cloud, please.",Permintaan Dina
+warga_dina_rain_no_0,dina,en-US,"We don't need any rain, please.","We don't need any rain, please.",Permintaan Dina
+warga_dina_terima,dina,en-US,Thank you!,Thank you!,Warga berterima kasih
+warga_wati_rain_little_0,wati,en-US,Please make a little rain.,Please make a little rain.,Permintaan Bu Wati
+warga_wati_rain_little_1,wati,en-US,"We need a little rain, please.","We need a little rain, please.",Permintaan Bu Wati
+warga_wati_rain_little_2,wati,en-US,Please add a little rain.,Please add a little rain.,Permintaan Bu Wati
+warga_wati_rain_little_3,wati,en-US,"A little rain, please.","A little rain, please.",Permintaan Bu Wati
+warga_wati_clouds_few_0,wati,en-US,Please make a few clouds.,Please make a few clouds.,Permintaan Bu Wati
+warga_wati_clouds_few_1,wati,en-US,"We need a few clouds, please.","We need a few clouds, please.",Permintaan Bu Wati
+warga_wati_clouds_few_2,wati,en-US,Please add a few clouds.,Please add a few clouds.,Permintaan Bu Wati
+warga_wati_clouds_few_3,wati,en-US,"A few clouds, please.","A few clouds, please.",Permintaan Bu Wati
+warga_wati_clouds_satu_0,wati,en-US,Please make a cloud.,Please make a cloud.,Permintaan Bu Wati
+warga_wati_clouds_satu_1,wati,en-US,"We need a cloud, please.","We need a cloud, please.",Permintaan Bu Wati
+warga_wati_clouds_satu_2,wati,en-US,Please add a cloud.,Please add a cloud.,Permintaan Bu Wati
+warga_wati_clouds_satu_3,wati,en-US,"A cloud, please.","A cloud, please.",Permintaan Bu Wati
+warga_wati_sunshine_little_0,wati,en-US,Please make a little sunshine.,Please make a little sunshine.,Permintaan Bu Wati
+warga_wati_sunshine_little_1,wati,en-US,"We need a little sunshine, please.","We need a little sunshine, please.",Permintaan Bu Wati
+warga_wati_sunshine_little_2,wati,en-US,Please add a little sunshine.,Please add a little sunshine.,Permintaan Bu Wati
+warga_wati_sunshine_little_3,wati,en-US,"A little sunshine, please.","A little sunshine, please.",Permintaan Bu Wati
+warga_wati_sunshine_lot_0,wati,en-US,Please make a lot of sunshine.,Please make a lot of sunshine.,Permintaan Bu Wati
+warga_wati_sunshine_lot_1,wati,en-US,"We need a lot of sunshine, please.","We need a lot of sunshine, please.",Permintaan Bu Wati
+warga_wati_sunshine_lot_2,wati,en-US,Please add a lot of sunshine.,Please add a lot of sunshine.,Permintaan Bu Wati
+warga_wati_sunshine_lot_3,wati,en-US,"A lot of sunshine, please.","A lot of sunshine, please.",Permintaan Bu Wati
+warga_wati_umbrellas_satu_0,wati,en-US,Please make an umbrella.,Please make an umbrella.,Permintaan Bu Wati
+warga_wati_umbrellas_satu_1,wati,en-US,"We need an umbrella, please.","We need an umbrella, please.",Permintaan Bu Wati
+warga_wati_umbrellas_satu_2,wati,en-US,Please add an umbrella.,Please add an umbrella.,Permintaan Bu Wati
+warga_wati_umbrellas_satu_3,wati,en-US,"An umbrella, please.","An umbrella, please.",Permintaan Bu Wati
+warga_wati_umbrellas_few_0,wati,en-US,Please make a few umbrellas.,Please make a few umbrellas.,Permintaan Bu Wati
+warga_wati_umbrellas_few_1,wati,en-US,"We need a few umbrellas, please.","We need a few umbrellas, please.",Permintaan Bu Wati
+warga_wati_umbrellas_few_2,wati,en-US,Please add a few umbrellas.,Please add a few umbrellas.,Permintaan Bu Wati
+warga_wati_umbrellas_few_3,wati,en-US,"A few umbrellas, please.","A few umbrellas, please.",Permintaan Bu Wati
+warga_wati_terima,wati,en-US,Thank you!,Thank you!,Warga berterima kasih
+warga_udin_boats_few_0,udin,en-US,Please make a few boats.,Please make a few boats.,Permintaan Pak Udin
+warga_udin_boats_few_1,udin,en-US,"We need a few boats, please.","We need a few boats, please.",Permintaan Pak Udin
+warga_udin_boats_few_2,udin,en-US,Please add a few boats.,Please add a few boats.,Permintaan Pak Udin
+warga_udin_boats_few_3,udin,en-US,"A few boats, please.","A few boats, please.",Permintaan Pak Udin
+warga_udin_boats_lot_0,udin,en-US,Please make a lot of boats.,Please make a lot of boats.,Permintaan Pak Udin
+warga_udin_boats_lot_1,udin,en-US,"We need a lot of boats, please.","We need a lot of boats, please.",Permintaan Pak Udin
+warga_udin_boats_lot_2,udin,en-US,Please add a lot of boats.,Please add a lot of boats.,Permintaan Pak Udin
+warga_udin_boats_lot_3,udin,en-US,"A lot of boats, please.","A lot of boats, please.",Permintaan Pak Udin
+warga_udin_boats_satu_0,udin,en-US,Please make a boat.,Please make a boat.,Permintaan Pak Udin
+warga_udin_boats_satu_1,udin,en-US,"We need a boat, please.","We need a boat, please.",Permintaan Pak Udin
+warga_udin_boats_satu_2,udin,en-US,Please add a boat.,Please add a boat.,Permintaan Pak Udin
+warga_udin_boats_satu_3,udin,en-US,"A boat, please.","A boat, please.",Permintaan Pak Udin
+warga_udin_fog_no_0,udin,en-US,"We don't need any fog, please.","We don't need any fog, please.",Permintaan Pak Udin
+warga_udin_wind_little_0,udin,en-US,Please make a little wind.,Please make a little wind.,Permintaan Pak Udin
+warga_udin_wind_little_1,udin,en-US,"We need a little wind, please.","We need a little wind, please.",Permintaan Pak Udin
+warga_udin_wind_little_2,udin,en-US,Please add a little wind.,Please add a little wind.,Permintaan Pak Udin
+warga_udin_wind_little_3,udin,en-US,"A little wind, please.","A little wind, please.",Permintaan Pak Udin
+warga_udin_wind_no_0,udin,en-US,"We don't need any wind, please.","We don't need any wind, please.",Permintaan Pak Udin
+warga_udin_water_lot_0,udin,en-US,"We need a lot of water, please.","We need a lot of water, please.",Permintaan Pak Udin
+warga_udin_water_lot_2,udin,en-US,Please add a lot of water.,Please add a lot of water.,Permintaan Pak Udin
+warga_udin_water_lot_3,udin,en-US,"A lot of water, please.","A lot of water, please.",Permintaan Pak Udin
+warga_udin_terima,udin,en-US,Thank you!,Thank you!,Warga berterima kasih
+warga_darto_sunshine_lot_0,darto,en-US,Please make a lot of sunshine.,Please make a lot of sunshine.,Permintaan Pak Darto
+warga_darto_sunshine_lot_1,darto,en-US,"We need a lot of sunshine, please.","We need a lot of sunshine, please.",Permintaan Pak Darto
+warga_darto_sunshine_lot_2,darto,en-US,Please add a lot of sunshine.,Please add a lot of sunshine.,Permintaan Pak Darto
+warga_darto_sunshine_lot_3,darto,en-US,"A lot of sunshine, please.","A lot of sunshine, please.",Permintaan Pak Darto
+warga_darto_rain_no_0,darto,en-US,"We don't need any rain, please.","We don't need any rain, please.",Permintaan Pak Darto
+warga_darto_water_little_0,darto,en-US,"We need a little water, please.","We need a little water, please.",Permintaan Pak Darto
+warga_darto_water_little_2,darto,en-US,Please add a little water.,Please add a little water.,Permintaan Pak Darto
+warga_darto_water_little_3,darto,en-US,"A little water, please.","A little water, please.",Permintaan Pak Darto
+warga_darto_clouds_no_0,darto,en-US,"We don't need any clouds, please.","We don't need any clouds, please.",Permintaan Pak Darto
+warga_darto_terima,darto,en-US,Thank you!,Thank you!,Warga berterima kasih
+warga_tetap_2_0,darto,en-US,"A lot of sunshine and no rain, please.","A lot of sunshine and no rain, please.",Permintaan tetap darto
+warga_tetap_3_0,wati,en-US,Please make a little rain and a few clouds.,Please make a little rain and a few clouds.,Permintaan tetap wati
+warga_tetap_3_1,wati,en-US,"We need a little rain and a few clouds, please.","We need a little rain and a few clouds, please.",Permintaan tetap wati
+warga_tetap_3_2,wati,en-US,Please add a little rain and a few clouds.,Please add a little rain and a few clouds.,Permintaan tetap wati
+warga_tetap_3_3,wati,en-US,"A little rain and a few clouds, please.","A little rain and a few clouds, please.",Permintaan tetap wati
+warga_tetap_4_0,dina,en-US,Please make a lot of wind and a few kites.,Please make a lot of wind and a few kites.,Permintaan tetap dina
+warga_tetap_4_1,dina,en-US,"We need a lot of wind and a few kites, please.","We need a lot of wind and a few kites, please.",Permintaan tetap dina
+warga_tetap_4_2,dina,en-US,Please add a lot of wind and a few kites.,Please add a lot of wind and a few kites.,Permintaan tetap dina
+warga_tetap_4_3,dina,en-US,"A lot of wind and a few kites, please.","A lot of wind and a few kites, please.",Permintaan tetap dina
+warga_tetap_6_0,dina,en-US,"We don't need any wind, please.","We don't need any wind, please.",Permintaan tetap dina
+bayu_tanya_banyak_clouds,bayu,en-US,How many clouds are there?,How many clouds are there?,Pertanyaan banyak clouds
+papan_jawab_banyak_clouds_10_0,papan,en-US,There are many clouds.,There are many clouds.,Jawaban kartu clouds 10
+bayu_tanya_tidak_clouds,bayu,en-US,Are there many clouds?,Are there many clouds?,Pertanyaan tidak clouds
+papan_jawab_tidak_clouds_1_0,papan,en-US,"No, there aren't many clouds.","No, there aren't many clouds.",Jawaban kartu clouds 1
+papan_jawab_tidak_clouds_10_0,papan,en-US,"Yes, there are many clouds.","Yes, there are many clouds.",Jawaban kartu clouds 10
+papan_jawab_tidak_clouds_10_1,papan,en-US,"Yes, there are a lot of clouds.","Yes, there are a lot of clouds.",Jawaban kartu clouds 10
+bayu_tanya_ada_clouds,bayu,en-US,Are there any clouds?,Are there any clouds?,Pertanyaan ada clouds
+papan_jawab_ada_clouds_0_0,papan,en-US,"No, there are no clouds.","No, there are no clouds.",Jawaban kartu clouds 0
+papan_jawab_ada_clouds_0_1,papan,en-US,"No, there aren't any clouds.","No, there aren't any clouds.",Jawaban kartu clouds 0
+papan_jawab_ada_clouds_2_0,papan,en-US,"Yes, there are some clouds.","Yes, there are some clouds.",Jawaban kartu clouds 2
+bayu_tanya_banyak_kites,bayu,en-US,How many kites are there?,How many kites are there?,Pertanyaan banyak kites
+papan_jawab_banyak_kites_10_0,papan,en-US,There are many kites.,There are many kites.,Jawaban kartu kites 10
+bayu_tanya_tidak_kites,bayu,en-US,Are there many kites?,Are there many kites?,Pertanyaan tidak kites
+papan_jawab_tidak_kites_1_0,papan,en-US,"No, there aren't many kites.","No, there aren't many kites.",Jawaban kartu kites 1
+papan_jawab_tidak_kites_10_0,papan,en-US,"Yes, there are many kites.","Yes, there are many kites.",Jawaban kartu kites 10
+papan_jawab_tidak_kites_10_1,papan,en-US,"Yes, there are a lot of kites.","Yes, there are a lot of kites.",Jawaban kartu kites 10
+bayu_tanya_ada_kites,bayu,en-US,Are there any kites?,Are there any kites?,Pertanyaan ada kites
+papan_jawab_ada_kites_0_0,papan,en-US,"No, there are no kites.","No, there are no kites.",Jawaban kartu kites 0
+papan_jawab_ada_kites_0_1,papan,en-US,"No, there aren't any kites.","No, there aren't any kites.",Jawaban kartu kites 0
+papan_jawab_ada_kites_2_0,papan,en-US,"Yes, there are some kites.","Yes, there are some kites.",Jawaban kartu kites 2
+bayu_tanya_banyak_umbrellas,bayu,en-US,How many umbrellas are there?,How many umbrellas are there?,Pertanyaan banyak umbrellas
+papan_jawab_banyak_umbrellas_10_0,papan,en-US,There are many umbrellas.,There are many umbrellas.,Jawaban kartu umbrellas 10
+bayu_tanya_tidak_umbrellas,bayu,en-US,Are there many umbrellas?,Are there many umbrellas?,Pertanyaan tidak umbrellas
+papan_jawab_tidak_umbrellas_1_0,papan,en-US,"No, there aren't many umbrellas.","No, there aren't many umbrellas.",Jawaban kartu umbrellas 1
+papan_jawab_tidak_umbrellas_10_0,papan,en-US,"Yes, there are many umbrellas.","Yes, there are many umbrellas.",Jawaban kartu umbrellas 10
+papan_jawab_tidak_umbrellas_10_1,papan,en-US,"Yes, there are a lot of umbrellas.","Yes, there are a lot of umbrellas.",Jawaban kartu umbrellas 10
+bayu_tanya_ada_umbrellas,bayu,en-US,Are there any umbrellas?,Are there any umbrellas?,Pertanyaan ada umbrellas
+papan_jawab_ada_umbrellas_0_0,papan,en-US,"No, there are no umbrellas.","No, there are no umbrellas.",Jawaban kartu umbrellas 0
+papan_jawab_ada_umbrellas_0_1,papan,en-US,"No, there aren't any umbrellas.","No, there aren't any umbrellas.",Jawaban kartu umbrellas 0
+papan_jawab_ada_umbrellas_2_0,papan,en-US,"Yes, there are some umbrellas.","Yes, there are some umbrellas.",Jawaban kartu umbrellas 2
+bayu_tanya_banyak_boats,bayu,en-US,How many boats are there?,How many boats are there?,Pertanyaan banyak boats
+papan_jawab_banyak_boats_10_0,papan,en-US,There are many boats.,There are many boats.,Jawaban kartu boats 10
+bayu_tanya_tidak_boats,bayu,en-US,Are there many boats?,Are there many boats?,Pertanyaan tidak boats
+papan_jawab_tidak_boats_1_0,papan,en-US,"No, there aren't many boats.","No, there aren't many boats.",Jawaban kartu boats 1
+papan_jawab_tidak_boats_10_0,papan,en-US,"Yes, there are many boats.","Yes, there are many boats.",Jawaban kartu boats 10
+papan_jawab_tidak_boats_10_1,papan,en-US,"Yes, there are a lot of boats.","Yes, there are a lot of boats.",Jawaban kartu boats 10
+bayu_tanya_ada_boats,bayu,en-US,Are there any boats?,Are there any boats?,Pertanyaan ada boats
+papan_jawab_ada_boats_0_0,papan,en-US,"No, there are no boats.","No, there are no boats.",Jawaban kartu boats 0
+papan_jawab_ada_boats_0_1,papan,en-US,"No, there aren't any boats.","No, there aren't any boats.",Jawaban kartu boats 0
+papan_jawab_ada_boats_2_0,papan,en-US,"Yes, there are some boats.","Yes, there are some boats.",Jawaban kartu boats 2
+bayu_tanya_banyak_rain,bayu,en-US,How much rain is there?,How much rain is there?,Pertanyaan banyak rain
+bayu_tanya_tidak_rain,bayu,en-US,Is there much rain?,Is there much rain?,Pertanyaan tidak rain
+papan_jawab_tidak_rain_20_0,papan,en-US,"No, there isn't much rain.","No, there isn't much rain.",Jawaban kartu rain 20
+papan_jawab_tidak_rain_80_0,papan,en-US,"Yes, there is a lot of rain.","Yes, there is a lot of rain.",Jawaban kartu rain 80
+bayu_tanya_ada_rain,bayu,en-US,Is there any rain?,Is there any rain?,Pertanyaan ada rain
+papan_jawab_ada_rain_0_0,papan,en-US,"No, there is no rain.","No, there is no rain.",Jawaban kartu rain 0
+papan_jawab_ada_rain_0_1,papan,en-US,"No, there isn't any rain.","No, there isn't any rain.",Jawaban kartu rain 0
+papan_jawab_ada_rain_20_0,papan,en-US,"Yes, there is some rain.","Yes, there is some rain.",Jawaban kartu rain 20
+bayu_tanya_banyak_snow,bayu,en-US,How much snow is there?,How much snow is there?,Pertanyaan banyak snow
+bayu_tanya_tidak_snow,bayu,en-US,Is there much snow?,Is there much snow?,Pertanyaan tidak snow
+papan_jawab_tidak_snow_20_0,papan,en-US,"No, there isn't much snow.","No, there isn't much snow.",Jawaban kartu snow 20
+papan_jawab_tidak_snow_80_0,papan,en-US,"Yes, there is a lot of snow.","Yes, there is a lot of snow.",Jawaban kartu snow 80
+bayu_tanya_ada_snow,bayu,en-US,Is there any snow?,Is there any snow?,Pertanyaan ada snow
+papan_jawab_ada_snow_0_0,papan,en-US,"No, there is no snow.","No, there is no snow.",Jawaban kartu snow 0
+papan_jawab_ada_snow_0_1,papan,en-US,"No, there isn't any snow.","No, there isn't any snow.",Jawaban kartu snow 0
+papan_jawab_ada_snow_20_0,papan,en-US,"Yes, there is some snow.","Yes, there is some snow.",Jawaban kartu snow 20
+bayu_tanya_banyak_wind,bayu,en-US,How much wind is there?,How much wind is there?,Pertanyaan banyak wind
+bayu_tanya_tidak_wind,bayu,en-US,Is there much wind?,Is there much wind?,Pertanyaan tidak wind
+papan_jawab_tidak_wind_20_0,papan,en-US,"No, there isn't much wind.","No, there isn't much wind.",Jawaban kartu wind 20
+papan_jawab_tidak_wind_80_0,papan,en-US,"Yes, there is a lot of wind.","Yes, there is a lot of wind.",Jawaban kartu wind 80
+bayu_tanya_ada_wind,bayu,en-US,Is there any wind?,Is there any wind?,Pertanyaan ada wind
+papan_jawab_ada_wind_0_0,papan,en-US,"No, there is no wind.","No, there is no wind.",Jawaban kartu wind 0
+papan_jawab_ada_wind_0_1,papan,en-US,"No, there isn't any wind.","No, there isn't any wind.",Jawaban kartu wind 0
+papan_jawab_ada_wind_20_0,papan,en-US,"Yes, there is some wind.","Yes, there is some wind.",Jawaban kartu wind 20
+bayu_tanya_banyak_sunshine,bayu,en-US,How much sunshine is there?,How much sunshine is there?,Pertanyaan banyak sunshine
+bayu_tanya_tidak_sunshine,bayu,en-US,Is there much sunshine?,Is there much sunshine?,Pertanyaan tidak sunshine
+papan_jawab_tidak_sunshine_20_0,papan,en-US,"No, there isn't much sunshine.","No, there isn't much sunshine.",Jawaban kartu sunshine 20
+papan_jawab_tidak_sunshine_80_0,papan,en-US,"Yes, there is a lot of sunshine.","Yes, there is a lot of sunshine.",Jawaban kartu sunshine 80
+bayu_tanya_ada_sunshine,bayu,en-US,Is there any sunshine?,Is there any sunshine?,Pertanyaan ada sunshine
+papan_jawab_ada_sunshine_0_0,papan,en-US,"No, there is no sunshine.","No, there is no sunshine.",Jawaban kartu sunshine 0
+papan_jawab_ada_sunshine_0_1,papan,en-US,"No, there isn't any sunshine.","No, there isn't any sunshine.",Jawaban kartu sunshine 0
+papan_jawab_ada_sunshine_20_0,papan,en-US,"Yes, there is some sunshine.","Yes, there is some sunshine.",Jawaban kartu sunshine 20
+bayu_tanya_banyak_fog,bayu,en-US,How much fog is there?,How much fog is there?,Pertanyaan banyak fog
+bayu_tanya_tidak_fog,bayu,en-US,Is there much fog?,Is there much fog?,Pertanyaan tidak fog
+papan_jawab_tidak_fog_20_0,papan,en-US,"No, there isn't much fog.","No, there isn't much fog.",Jawaban kartu fog 20
+papan_jawab_tidak_fog_80_0,papan,en-US,"Yes, there is a lot of fog.","Yes, there is a lot of fog.",Jawaban kartu fog 80
+bayu_tanya_ada_fog,bayu,en-US,Is there any fog?,Is there any fog?,Pertanyaan ada fog
+papan_jawab_ada_fog_0_0,papan,en-US,"No, there is no fog.","No, there is no fog.",Jawaban kartu fog 0
+papan_jawab_ada_fog_0_1,papan,en-US,"No, there isn't any fog.","No, there isn't any fog.",Jawaban kartu fog 0
+papan_jawab_ada_fog_20_0,papan,en-US,"Yes, there is some fog.","Yes, there is some fog.",Jawaban kartu fog 20
+bayu_tanya_banyak_water,bayu,en-US,How much water is there?,How much water is there?,Pertanyaan banyak water
+bayu_tanya_tidak_water,bayu,en-US,Is there much water?,Is there much water?,Pertanyaan tidak water
+papan_jawab_tidak_water_20_0,papan,en-US,"No, there isn't much water.","No, there isn't much water.",Jawaban kartu water 20
+papan_jawab_tidak_water_80_0,papan,en-US,"Yes, there is a lot of water.","Yes, there is a lot of water.",Jawaban kartu water 80
+bayu_tanya_ada_water,bayu,en-US,Is there any water?,Is there any water?,Pertanyaan ada water
+papan_jawab_ada_water_0_0,papan,en-US,"No, there is no water.","No, there is no water.",Jawaban kartu water 0
+papan_jawab_ada_water_0_1,papan,en-US,"No, there isn't any water.","No, there isn't any water.",Jawaban kartu water 0
+papan_jawab_ada_water_20_0,papan,en-US,"Yes, there is some water.","Yes, there is some water.",Jawaban kartu water 20
+bayu_tanya_banyak_sand,bayu,en-US,How much sand is there?,How much sand is there?,Pertanyaan banyak sand
+bayu_tanya_tidak_sand,bayu,en-US,Is there much sand?,Is there much sand?,Pertanyaan tidak sand
+papan_jawab_tidak_sand_20_0,papan,en-US,"No, there isn't much sand.","No, there isn't much sand.",Jawaban kartu sand 20
+papan_jawab_tidak_sand_80_0,papan,en-US,"Yes, there is a lot of sand.","Yes, there is a lot of sand.",Jawaban kartu sand 80
+bayu_tanya_ada_sand,bayu,en-US,Is there any sand?,Is there any sand?,Pertanyaan ada sand
+papan_jawab_ada_sand_0_0,papan,en-US,"No, there is no sand.","No, there is no sand.",Jawaban kartu sand 0
+papan_jawab_ada_sand_0_1,papan,en-US,"No, there isn't any sand.","No, there isn't any sand.",Jawaban kartu sand 0
+papan_jawab_ada_sand_20_0,papan,en-US,"Yes, there is some sand.","Yes, there is some sand.",Jawaban kartu sand 20
+bayu_tanya_banyak_raindrops,bayu,en-US,How many raindrops are there?,How many raindrops are there?,Pertanyaan banyak raindrops
+papan_jawab_banyak_raindrops_10_0,papan,en-US,There are many raindrops.,There are many raindrops.,Jawaban kartu raindrops 10
+bayu_tanya_tidak_raindrops,bayu,en-US,Are there many raindrops?,Are there many raindrops?,Pertanyaan tidak raindrops
+papan_jawab_tidak_raindrops_1_0,papan,en-US,"No, there aren't many raindrops.","No, there aren't many raindrops.",Jawaban kartu raindrops 1
+papan_jawab_tidak_raindrops_10_0,papan,en-US,"Yes, there are many raindrops.","Yes, there are many raindrops.",Jawaban kartu raindrops 10
+papan_jawab_tidak_raindrops_10_1,papan,en-US,"Yes, there are a lot of raindrops.","Yes, there are a lot of raindrops.",Jawaban kartu raindrops 10
+bayu_tanya_ada_raindrops,bayu,en-US,Are there any raindrops?,Are there any raindrops?,Pertanyaan ada raindrops
+papan_jawab_ada_raindrops_0_0,papan,en-US,"No, there are no raindrops.","No, there are no raindrops.",Jawaban kartu raindrops 0
+papan_jawab_ada_raindrops_0_1,papan,en-US,"No, there aren't any raindrops.","No, there aren't any raindrops.",Jawaban kartu raindrops 0
+papan_jawab_ada_raindrops_2_0,papan,en-US,"Yes, there are some raindrops.","Yes, there are some raindrops.",Jawaban kartu raindrops 2
+bayu_tanya_banyak_snowflakes,bayu,en-US,How many snowflakes are there?,How many snowflakes are there?,Pertanyaan banyak snowflakes
+papan_jawab_banyak_snowflakes_10_0,papan,en-US,There are many snowflakes.,There are many snowflakes.,Jawaban kartu snowflakes 10
+bayu_tanya_tidak_snowflakes,bayu,en-US,Are there many snowflakes?,Are there many snowflakes?,Pertanyaan tidak snowflakes
+papan_jawab_tidak_snowflakes_1_0,papan,en-US,"No, there aren't many snowflakes.","No, there aren't many snowflakes.",Jawaban kartu snowflakes 1
+papan_jawab_tidak_snowflakes_10_0,papan,en-US,"Yes, there are many snowflakes.","Yes, there are many snowflakes.",Jawaban kartu snowflakes 10
+papan_jawab_tidak_snowflakes_10_1,papan,en-US,"Yes, there are a lot of snowflakes.","Yes, there are a lot of snowflakes.",Jawaban kartu snowflakes 10
+bayu_tanya_ada_snowflakes,bayu,en-US,Are there any snowflakes?,Are there any snowflakes?,Pertanyaan ada snowflakes
+papan_jawab_ada_snowflakes_0_0,papan,en-US,"No, there are no snowflakes.","No, there are no snowflakes.",Jawaban kartu snowflakes 0
+papan_jawab_ada_snowflakes_0_1,papan,en-US,"No, there aren't any snowflakes.","No, there aren't any snowflakes.",Jawaban kartu snowflakes 0
+papan_jawab_ada_snowflakes_2_0,papan,en-US,"Yes, there are some snowflakes.","Yes, there are some snowflakes.",Jawaban kartu snowflakes 2
+bayu_tanya_banyak_puddles,bayu,en-US,How many puddles are there?,How many puddles are there?,Pertanyaan banyak puddles
+papan_jawab_banyak_puddles_10_0,papan,en-US,There are many puddles.,There are many puddles.,Jawaban kartu puddles 10
+bayu_tanya_tidak_puddles,bayu,en-US,Are there many puddles?,Are there many puddles?,Pertanyaan tidak puddles
+papan_jawab_tidak_puddles_1_0,papan,en-US,"No, there aren't many puddles.","No, there aren't many puddles.",Jawaban kartu puddles 1
+papan_jawab_tidak_puddles_10_0,papan,en-US,"Yes, there are many puddles.","Yes, there are many puddles.",Jawaban kartu puddles 10
+papan_jawab_tidak_puddles_10_1,papan,en-US,"Yes, there are a lot of puddles.","Yes, there are a lot of puddles.",Jawaban kartu puddles 10
+bayu_tanya_ada_puddles,bayu,en-US,Are there any puddles?,Are there any puddles?,Pertanyaan ada puddles
+papan_jawab_ada_puddles_0_0,papan,en-US,"No, there are no puddles.","No, there are no puddles.",Jawaban kartu puddles 0
+papan_jawab_ada_puddles_0_1,papan,en-US,"No, there aren't any puddles.","No, there aren't any puddles.",Jawaban kartu puddles 0
+papan_jawab_ada_puddles_2_0,papan,en-US,"Yes, there are some puddles.","Yes, there are some puddles.",Jawaban kartu puddles 2
+bayu_tanya_banyak_frogs,bayu,en-US,How many frogs are there?,How many frogs are there?,Pertanyaan banyak frogs
+papan_jawab_banyak_frogs_10_0,papan,en-US,There are many frogs.,There are many frogs.,Jawaban kartu frogs 10
+bayu_tanya_tidak_frogs,bayu,en-US,Are there many frogs?,Are there many frogs?,Pertanyaan tidak frogs
+papan_jawab_tidak_frogs_1_0,papan,en-US,"No, there aren't many frogs.","No, there aren't many frogs.",Jawaban kartu frogs 1
+papan_jawab_tidak_frogs_10_0,papan,en-US,"Yes, there are many frogs.","Yes, there are many frogs.",Jawaban kartu frogs 10
+papan_jawab_tidak_frogs_10_1,papan,en-US,"Yes, there are a lot of frogs.","Yes, there are a lot of frogs.",Jawaban kartu frogs 10
+bayu_tanya_ada_frogs,bayu,en-US,Are there any frogs?,Are there any frogs?,Pertanyaan ada frogs
+papan_jawab_ada_frogs_0_0,papan,en-US,"No, there are no frogs.","No, there are no frogs.",Jawaban kartu frogs 0
+papan_jawab_ada_frogs_0_1,papan,en-US,"No, there aren't any frogs.","No, there aren't any frogs.",Jawaban kartu frogs 0
+papan_jawab_ada_frogs_2_0,papan,en-US,"Yes, there are some frogs.","Yes, there are some frogs.",Jawaban kartu frogs 2
+bayu_tanya_banyak_leaves,bayu,en-US,How many leaves are there?,How many leaves are there?,Pertanyaan banyak leaves
+papan_jawab_banyak_leaves_10_0,papan,en-US,There are many leaves.,There are many leaves.,Jawaban kartu leaves 10
+bayu_tanya_tidak_leaves,bayu,en-US,Are there many leaves?,Are there many leaves?,Pertanyaan tidak leaves
+papan_jawab_tidak_leaves_1_0,papan,en-US,"No, there aren't many leaves.","No, there aren't many leaves.",Jawaban kartu leaves 1
+papan_jawab_tidak_leaves_10_0,papan,en-US,"Yes, there are many leaves.","Yes, there are many leaves.",Jawaban kartu leaves 10
+papan_jawab_tidak_leaves_10_1,papan,en-US,"Yes, there are a lot of leaves.","Yes, there are a lot of leaves.",Jawaban kartu leaves 10
+bayu_tanya_ada_leaves,bayu,en-US,Are there any leaves?,Are there any leaves?,Pertanyaan ada leaves
+papan_jawab_ada_leaves_0_0,papan,en-US,"No, there are no leaves.","No, there are no leaves.",Jawaban kartu leaves 0
+papan_jawab_ada_leaves_0_1,papan,en-US,"No, there aren't any leaves.","No, there aren't any leaves.",Jawaban kartu leaves 0
+papan_jawab_ada_leaves_2_0,papan,en-US,"Yes, there are some leaves.","Yes, there are some leaves.",Jawaban kartu leaves 2
+bayu_tanya_banyak_fish,bayu,en-US,How many fish are there?,How many fish are there?,Pertanyaan banyak fish
+papan_jawab_banyak_fish_10_0,papan,en-US,There are many fish.,There are many fish.,Jawaban kartu fish 10
+bayu_tanya_tidak_fish,bayu,en-US,Are there many fish?,Are there many fish?,Pertanyaan tidak fish
+papan_jawab_tidak_fish_1_0,papan,en-US,"No, there aren't many fish.","No, there aren't many fish.",Jawaban kartu fish 1
+papan_jawab_tidak_fish_10_0,papan,en-US,"Yes, there are many fish.","Yes, there are many fish.",Jawaban kartu fish 10
+papan_jawab_tidak_fish_10_1,papan,en-US,"Yes, there are a lot of fish.","Yes, there are a lot of fish.",Jawaban kartu fish 10
+bayu_tanya_ada_fish,bayu,en-US,Are there any fish?,Are there any fish?,Pertanyaan ada fish
+papan_jawab_ada_fish_0_0,papan,en-US,"No, there are no fish.","No, there are no fish.",Jawaban kartu fish 0
+papan_jawab_ada_fish_0_1,papan,en-US,"No, there aren't any fish.","No, there aren't any fish.",Jawaban kartu fish 0
+papan_jawab_ada_fish_2_0,papan,en-US,"Yes, there are some fish.","Yes, there are some fish.",Jawaban kartu fish 2
+bayu_tanya_banyak_rainbows,bayu,en-US,How many rainbows are there?,How many rainbows are there?,Pertanyaan banyak rainbows
+papan_jawab_banyak_rainbows_10_0,papan,en-US,There are many rainbows.,There are many rainbows.,Jawaban kartu rainbows 10
+bayu_tanya_tidak_rainbows,bayu,en-US,Are there many rainbows?,Are there many rainbows?,Pertanyaan tidak rainbows
+papan_jawab_tidak_rainbows_1_0,papan,en-US,"No, there aren't many rainbows.","No, there aren't many rainbows.",Jawaban kartu rainbows 1
+papan_jawab_tidak_rainbows_10_0,papan,en-US,"Yes, there are many rainbows.","Yes, there are many rainbows.",Jawaban kartu rainbows 10
+papan_jawab_tidak_rainbows_10_1,papan,en-US,"Yes, there are a lot of rainbows.","Yes, there are a lot of rainbows.",Jawaban kartu rainbows 10
+bayu_tanya_ada_rainbows,bayu,en-US,Are there any rainbows?,Are there any rainbows?,Pertanyaan ada rainbows
+papan_jawab_ada_rainbows_0_0,papan,en-US,"No, there are no rainbows.","No, there are no rainbows.",Jawaban kartu rainbows 0
+papan_jawab_ada_rainbows_0_1,papan,en-US,"No, there aren't any rainbows.","No, there aren't any rainbows.",Jawaban kartu rainbows 0
+papan_jawab_ada_rainbows_2_0,papan,en-US,"Yes, there are some rainbows.","Yes, there are some rainbows.",Jawaban kartu rainbows 2
+bayu_tanya_banyak_stars,bayu,en-US,How many stars are there?,How many stars are there?,Pertanyaan banyak stars
+papan_jawab_banyak_stars_10_0,papan,en-US,There are many stars.,There are many stars.,Jawaban kartu stars 10
+bayu_tanya_tidak_stars,bayu,en-US,Are there many stars?,Are there many stars?,Pertanyaan tidak stars
+papan_jawab_tidak_stars_1_0,papan,en-US,"No, there aren't many stars.","No, there aren't many stars.",Jawaban kartu stars 1
+papan_jawab_tidak_stars_10_0,papan,en-US,"Yes, there are many stars.","Yes, there are many stars.",Jawaban kartu stars 10
+papan_jawab_tidak_stars_10_1,papan,en-US,"Yes, there are a lot of stars.","Yes, there are a lot of stars.",Jawaban kartu stars 10
+bayu_tanya_ada_stars,bayu,en-US,Are there any stars?,Are there any stars?,Pertanyaan ada stars
+papan_jawab_ada_stars_0_0,papan,en-US,"No, there are no stars.","No, there are no stars.",Jawaban kartu stars 0
+papan_jawab_ada_stars_0_1,papan,en-US,"No, there aren't any stars.","No, there aren't any stars.",Jawaban kartu stars 0
+papan_jawab_ada_stars_2_0,papan,en-US,"Yes, there are some stars.","Yes, there are some stars.",Jawaban kartu stars 2
+bayu_tanya_banyak_salt,bayu,en-US,How much salt is there?,How much salt is there?,Pertanyaan banyak salt
+bayu_tanya_tidak_salt,bayu,en-US,Is there much salt?,Is there much salt?,Pertanyaan tidak salt
+papan_jawab_tidak_salt_20_0,papan,en-US,"No, there isn't much salt.","No, there isn't much salt.",Jawaban kartu salt 20
+papan_jawab_tidak_salt_80_0,papan,en-US,"Yes, there is a lot of salt.","Yes, there is a lot of salt.",Jawaban kartu salt 80
+bayu_tanya_ada_salt,bayu,en-US,Is there any salt?,Is there any salt?,Pertanyaan ada salt
+papan_jawab_ada_salt_0_0,papan,en-US,"No, there is no salt.","No, there is no salt.",Jawaban kartu salt 0
+papan_jawab_ada_salt_0_1,papan,en-US,"No, there isn't any salt.","No, there isn't any salt.",Jawaban kartu salt 0
+papan_jawab_ada_salt_20_0,papan,en-US,"Yes, there is some salt.","Yes, there is some salt.",Jawaban kartu salt 20
+papan_fenomena_mendung_1,papan,en-US,The valley is dark.,The valley is dark.,Fenomena Langit Mendung
+papan_fenomena_pelangi_0,papan,en-US,There is a lot of sunshine and a little rain.,There is a lot of sunshine and a little rain.,Fenomena Pelangi
+papan_fenomena_layang_0,papan,en-US,There is a lot of wind and no rain.,There is a lot of wind and no rain.,Fenomena Layang-layang Terbang
+papan_fenomena_daun_0,papan,en-US,There are a lot of leaves on the ground.,There are a lot of leaves on the ground.,Fenomena Daun Berguguran
+papan_fenomena_saljuman_0,papan,en-US,There is a lot of snow on the peak.,There is a lot of snow on the peak.,Fenomena Manusia Salju
+papan_fenomena_kabut_1,papan,en-US,The boats stay at the pier.,The boats stay at the pier.,Fenomena Kabut Dermaga
+papan_fenomena_garam_1,papan,en-US,Now there is a little salt.,Now there is a little salt.,Fenomena Panen Garam
+kumu_pilih_kites,kumu,id-ID,Alat apa yang cocok untuk *kites*?,Alat apa yang cocok untuk kites?,Level 1: pilih kites
+kumu_cekUlang_kites,kumu,id-ID,Ingat lagi: alat apa untuk *kites*?,Ingat lagi: alat apa untuk kites?,Level 1: cekUlang kites
+kumu_berhasilHitung_kites,kumu,id-ID,"*kites* datang satu-satu, jadi dihitung!","kites datang satu-satu, jadi dihitung!",Level 1: berhasilHitung kites
+kumu_berhasilTakar_kites,kumu,id-ID,"*kites* tidak dihitung, tetapi ditakar.","kites tidak dihitung, tetapi ditakar.",Level 1: berhasilTakar kites
+kumu_salahHitung_kites,kumu,id-ID,*kites* tidak datang satu-satu. Coba lagi!,kites tidak datang satu-satu. Coba lagi!,Level 1: salahHitung kites
+kumu_salahTakar_kites,kumu,id-ID,"Hmm, *kites* datang satu-satu. Coba lagi!","Hmm, kites datang satu-satu. Coba lagi!",Level 1: salahTakar kites
+kumu_tunjuk_kites,kumu,id-ID,Ini alatnya. kites dihitung satu-satu.,Ini alatnya. kites dihitung satu-satu.,Level 1: petunjuk tingkat 3
+kumu_pilih_wind,kumu,id-ID,Alat apa yang cocok untuk *wind*?,Alat apa yang cocok untuk wind?,Level 1: pilih wind
+kumu_cekUlang_wind,kumu,id-ID,Ingat lagi: alat apa untuk *wind*?,Ingat lagi: alat apa untuk wind?,Level 1: cekUlang wind
+kumu_berhasilHitung_wind,kumu,id-ID,"*wind* datang satu-satu, jadi dihitung!","wind datang satu-satu, jadi dihitung!",Level 1: berhasilHitung wind
+kumu_berhasilTakar_wind,kumu,id-ID,"*wind* tidak dihitung, tetapi ditakar.","wind tidak dihitung, tetapi ditakar.",Level 1: berhasilTakar wind
+kumu_salahHitung_wind,kumu,id-ID,*wind* tidak datang satu-satu. Coba lagi!,wind tidak datang satu-satu. Coba lagi!,Level 1: salahHitung wind
+kumu_salahTakar_wind,kumu,id-ID,"Hmm, *wind* datang satu-satu. Coba lagi!","Hmm, wind datang satu-satu. Coba lagi!",Level 1: salahTakar wind
+kumu_tunjuk_wind,kumu,id-ID,Ini alatnya. wind ditakar.,Ini alatnya. wind ditakar.,Level 1: petunjuk tingkat 3
+kumu_pilih_sunshine,kumu,id-ID,Alat apa yang cocok untuk *sunshine*?,Alat apa yang cocok untuk sunshine?,Level 1: pilih sunshine
+kumu_cekUlang_sunshine,kumu,id-ID,Ingat lagi: alat apa untuk *sunshine*?,Ingat lagi: alat apa untuk sunshine?,Level 1: cekUlang sunshine
+kumu_berhasilHitung_sunshine,kumu,id-ID,"*sunshine* datang satu-satu, jadi dihitung!","sunshine datang satu-satu, jadi dihitung!",Level 1: berhasilHitung sunshine
+kumu_berhasilTakar_sunshine,kumu,id-ID,"*sunshine* tidak dihitung, tetapi ditakar.","sunshine tidak dihitung, tetapi ditakar.",Level 1: berhasilTakar sunshine
+kumu_salahHitung_sunshine,kumu,id-ID,*sunshine* tidak datang satu-satu. Coba lagi!,sunshine tidak datang satu-satu. Coba lagi!,Level 1: salahHitung sunshine
+kumu_salahTakar_sunshine,kumu,id-ID,"Hmm, *sunshine* datang satu-satu. Coba lagi!","Hmm, sunshine datang satu-satu. Coba lagi!",Level 1: salahTakar sunshine
+kumu_tunjuk_sunshine,kumu,id-ID,Ini alatnya. sunshine ditakar.,Ini alatnya. sunshine ditakar.,Level 1: petunjuk tingkat 3
+kumu_pilih_umbrellas,kumu,id-ID,Alat apa yang cocok untuk *umbrellas*?,Alat apa yang cocok untuk umbrellas?,Level 1: pilih umbrellas
+kumu_cekUlang_umbrellas,kumu,id-ID,Ingat lagi: alat apa untuk *umbrellas*?,Ingat lagi: alat apa untuk umbrellas?,Level 1: cekUlang umbrellas
+kumu_berhasilHitung_umbrellas,kumu,id-ID,"*umbrellas* datang satu-satu, jadi dihitung!","umbrellas datang satu-satu, jadi dihitung!",Level 1: berhasilHitung umbrellas
+kumu_berhasilTakar_umbrellas,kumu,id-ID,"*umbrellas* tidak dihitung, tetapi ditakar.","umbrellas tidak dihitung, tetapi ditakar.",Level 1: berhasilTakar umbrellas
+kumu_salahHitung_umbrellas,kumu,id-ID,*umbrellas* tidak datang satu-satu. Coba lagi!,umbrellas tidak datang satu-satu. Coba lagi!,Level 1: salahHitung umbrellas
+kumu_salahTakar_umbrellas,kumu,id-ID,"Hmm, *umbrellas* datang satu-satu. Coba lagi!","Hmm, umbrellas datang satu-satu. Coba lagi!",Level 1: salahTakar umbrellas
+kumu_tunjuk_umbrellas,kumu,id-ID,Ini alatnya. umbrellas dihitung satu-satu.,Ini alatnya. umbrellas dihitung satu-satu.,Level 1: petunjuk tingkat 3
+kumu_pilih_sand,kumu,id-ID,Alat apa yang cocok untuk *sand*?,Alat apa yang cocok untuk sand?,Level 1: pilih sand
+kumu_cekUlang_sand,kumu,id-ID,Ingat lagi: alat apa untuk *sand*?,Ingat lagi: alat apa untuk sand?,Level 1: cekUlang sand
+kumu_berhasilHitung_sand,kumu,id-ID,"*sand* datang satu-satu, jadi dihitung!","sand datang satu-satu, jadi dihitung!",Level 1: berhasilHitung sand
+kumu_berhasilTakar_sand,kumu,id-ID,"*sand* tidak dihitung, tetapi ditakar.","sand tidak dihitung, tetapi ditakar.",Level 1: berhasilTakar sand
+kumu_salahHitung_sand,kumu,id-ID,*sand* tidak datang satu-satu. Coba lagi!,sand tidak datang satu-satu. Coba lagi!,Level 1: salahHitung sand
+kumu_salahTakar_sand,kumu,id-ID,"Hmm, *sand* datang satu-satu. Coba lagi!","Hmm, sand datang satu-satu. Coba lagi!",Level 1: salahTakar sand
+kumu_tunjuk_sand,kumu,id-ID,Ini alatnya. sand ditakar.,Ini alatnya. sand ditakar.,Level 1: petunjuk tingkat 3
+kumu_pilih_boats,kumu,id-ID,Alat apa yang cocok untuk *boats*?,Alat apa yang cocok untuk boats?,Level 1: pilih boats
+kumu_cekUlang_boats,kumu,id-ID,Ingat lagi: alat apa untuk *boats*?,Ingat lagi: alat apa untuk boats?,Level 1: cekUlang boats
+kumu_berhasilHitung_boats,kumu,id-ID,"*boats* datang satu-satu, jadi dihitung!","boats datang satu-satu, jadi dihitung!",Level 1: berhasilHitung boats
+kumu_berhasilTakar_boats,kumu,id-ID,"*boats* tidak dihitung, tetapi ditakar.","boats tidak dihitung, tetapi ditakar.",Level 1: berhasilTakar boats
+kumu_salahHitung_boats,kumu,id-ID,*boats* tidak datang satu-satu. Coba lagi!,boats tidak datang satu-satu. Coba lagi!,Level 1: salahHitung boats
+kumu_salahTakar_boats,kumu,id-ID,"Hmm, *boats* datang satu-satu. Coba lagi!","Hmm, boats datang satu-satu. Coba lagi!",Level 1: salahTakar boats
+kumu_tunjuk_boats,kumu,id-ID,Ini alatnya. boats dihitung satu-satu.,Ini alatnya. boats dihitung satu-satu.,Level 1: petunjuk tingkat 3
+kumu_pilih_fog,kumu,id-ID,Alat apa yang cocok untuk *fog*?,Alat apa yang cocok untuk fog?,Level 1: pilih fog
+kumu_cekUlang_fog,kumu,id-ID,Ingat lagi: alat apa untuk *fog*?,Ingat lagi: alat apa untuk fog?,Level 1: cekUlang fog
+kumu_berhasilHitung_fog,kumu,id-ID,"*fog* datang satu-satu, jadi dihitung!","fog datang satu-satu, jadi dihitung!",Level 1: berhasilHitung fog
+kumu_berhasilTakar_fog,kumu,id-ID,"*fog* tidak dihitung, tetapi ditakar.","fog tidak dihitung, tetapi ditakar.",Level 1: berhasilTakar fog
+kumu_salahHitung_fog,kumu,id-ID,*fog* tidak datang satu-satu. Coba lagi!,fog tidak datang satu-satu. Coba lagi!,Level 1: salahHitung fog
+kumu_salahTakar_fog,kumu,id-ID,"Hmm, *fog* datang satu-satu. Coba lagi!","Hmm, fog datang satu-satu. Coba lagi!",Level 1: salahTakar fog
+kumu_tunjuk_fog,kumu,id-ID,Ini alatnya. fog ditakar.,Ini alatnya. fog ditakar.,Level 1: petunjuk tingkat 3
+kumu_pilih_snow,kumu,id-ID,Alat apa yang cocok untuk *snow*?,Alat apa yang cocok untuk snow?,Level 1: pilih snow
+kumu_cekUlang_snow,kumu,id-ID,Ingat lagi: alat apa untuk *snow*?,Ingat lagi: alat apa untuk snow?,Level 1: cekUlang snow
+kumu_berhasilHitung_snow,kumu,id-ID,"*snow* datang satu-satu, jadi dihitung!","snow datang satu-satu, jadi dihitung!",Level 1: berhasilHitung snow
+kumu_berhasilTakar_snow,kumu,id-ID,"*snow* tidak dihitung, tetapi ditakar.","snow tidak dihitung, tetapi ditakar.",Level 1: berhasilTakar snow
+kumu_salahHitung_snow,kumu,id-ID,*snow* tidak datang satu-satu. Coba lagi!,snow tidak datang satu-satu. Coba lagi!,Level 1: salahHitung snow
+kumu_salahTakar_snow,kumu,id-ID,"Hmm, *snow* datang satu-satu. Coba lagi!","Hmm, snow datang satu-satu. Coba lagi!",Level 1: salahTakar snow
+kumu_tunjuk_snow,kumu,id-ID,Ini alatnya. snow ditakar.,Ini alatnya. snow ditakar.,Level 1: petunjuk tingkat 3
+kumu_pilih_water,kumu,id-ID,Alat apa yang cocok untuk *water*?,Alat apa yang cocok untuk water?,Level 1: pilih water
+kumu_cekUlang_water,kumu,id-ID,Ingat lagi: alat apa untuk *water*?,Ingat lagi: alat apa untuk water?,Level 1: cekUlang water
+kumu_berhasilHitung_water,kumu,id-ID,"*water* datang satu-satu, jadi dihitung!","water datang satu-satu, jadi dihitung!",Level 1: berhasilHitung water
+kumu_berhasilTakar_water,kumu,id-ID,"*water* tidak dihitung, tetapi ditakar.","water tidak dihitung, tetapi ditakar.",Level 1: berhasilTakar water
+kumu_salahHitung_water,kumu,id-ID,*water* tidak datang satu-satu. Coba lagi!,water tidak datang satu-satu. Coba lagi!,Level 1: salahHitung water
+kumu_salahTakar_water,kumu,id-ID,"Hmm, *water* datang satu-satu. Coba lagi!","Hmm, water datang satu-satu. Coba lagi!",Level 1: salahTakar water
+kumu_tunjuk_water,kumu,id-ID,Ini alatnya. water ditakar.,Ini alatnya. water ditakar.,Level 1: petunjuk tingkat 3
+kumu_sorot,kumu,id-ID,Lihat toplesnya: satu-satu atau curahan?,Lihat toplesnya: satu-satu atau curahan?,Level 1: sorot
+kumu_lensaHujan,kumu,id-ID,"Tarik tuas hujan, lalu ketuk Lensa.","Tarik tuas hujan, lalu ketuk Lensa.",Level 1: lensaHujan
+kumu_lensaSalju,kumu,id-ID,"Salju! Tarik tuasnya, lalu ketuk Lensa.","Salju! Tarik tuasnya, lalu ketuk Lensa.",Level 1: lensaSalju
+kumu_lensaKetuk,kumu,id-ID,Ketuk Lensa untuk melihat lebih dekat.,Ketuk Lensa untuk melihat lebih dekat.,Level 1: lensaKetuk
+kumu_selesai,kumu,id-ID,Semua alat siap!,Semua alat siap!,Level 1: selesai
+kumu_coba_hitung,kumu,id-ID,Coba alatnya! Ketuk tombol tambah.,Coba alatnya! Ketuk tombol tambah.,Level 1: coba Tombol Hitung
+kumu_coba_takar,kumu,id-ID,Coba alatnya! Tarik tuasnya ke atas.,Coba alatnya! Tarik tuasnya ke atas.,Level 1: coba Tuas Takar
+kumu_hook_awan,kumu,id-ID,Ketuk tombol tambah awan.,Ketuk tombol tambah awan.,Hook
+kumu_hook_lagi,kumu,id-ID,Ketuk lagi!,Ketuk lagi!,Hook
+kumu_hook_hujan,kumu,id-ID,Tarik tuas hujan ke atas.,Tarik tuas hujan ke atas.,Hook
+kumu_butuh_awan,kumu,id-ID,Hujan butuh awan. Tambah awan dulu.,Hujan butuh awan. Tambah awan dulu.,Tuas hujan atau salju tanpa awan
+kumu_penuh,kumu,id-ID,Kubahnya sudah penuh.,Kubahnya sudah penuh.,Tombol Hitung sudah 12
+kumu_alur_kartu,kumu,id-ID,Kartu Kata,Kartu Kata,Level 2-5: alur kartu
+kumu_alur_rakKosong,kumu,id-ID,Kartu terpakai,Kartu terpakai,Level 2-5: alur rakKosong
+kumu_alur_isiDulu,kumu,id-ID,Isi dulu semua lekuk kosong.,Isi dulu semua lekuk kosong.,Level 2-5: alur isiDulu
+kumu_alur_levelSelesai,kumu,id-ID,Hebat! Tugas di level ini selesai.,Hebat! Tugas di level ini selesai.,Level 2-5: alur levelSelesai
+kumu_alur_fenomenaBaruKecil,kumu,id-ID,Fenomena baru!,Fenomena baru!,Level 2-5: alur fenomenaBaruKecil
+kumu_alur_fenomenaKecil,kumu,id-ID,Fenomena,Fenomena,Level 2-5: alur fenomenaKecil
+kumu_alur_siaranLihat,kumu,id-ID,Coba lihat lagi *{kata}* di kubah.,Coba lihat lagi {kata} di kubah.,"Level 2-5 (pola, {..} diisi kata benda): alur siaranLihat"
+kumu_alur_atur,kumu,id-ID,"Atur alatnya, lalu tekan JALANKAN.","Atur alatnya, lalu tekan JALANKAN.",Level 2-5: alur atur
+kumu_alur_dengarDulu,kumu,id-ID,Dengarkan dulu permintaannya.,Dengarkan dulu permintaannya.,Level 2-5: alur dengarDulu
+kumu_alur_benarPermintaan,kumu,id-ID,Tepat! {nama} senang sekali.,Tepat! {nama} senang sekali.,"Level 2-5 (pola, {..} diisi kata benda): alur benarPermintaan"
+kumu_alur_salahZona,kumu,id-ID,Cek lagi {kata}. Pita zonanya belum pas.,Cek lagi {kata}. Pita zonanya belum pas.,"Level 2-5 (pola, {..} diisi kata benda): alur salahZona"
+kumu_alur_salahBanyak,kumu,id-ID,Terlalu banyak {kata}. Kurangi.,Terlalu banyak {kata}. Kurangi.,"Level 2-5 (pola, {..} diisi kata benda): alur salahBanyak"
+kumu_alur_salahSedikit,kumu,id-ID,Terlalu sedikit {kata}. Tambah.,Terlalu sedikit {kata}. Tambah.,"Level 2-5 (pola, {..} diisi kata benda): alur salahSedikit"
+kumu_alur_makna_hitung,kumu,id-ID,Hitung lagi: ada {n} *{kata}* di kubah.,Hitung lagi: ada {n} {kata} di kubah.,"Level 2-5 (pola, {..} diisi kata benda): alur_makna hitung"
+kumu_alur_makna_satu,kumu,id-ID,Lihat lagi: hanya ada satu *{kata}*.,Lihat lagi: hanya ada satu {kata}.,"Level 2-5 (pola, {..} diisi kata benda): alur_makna satu"
+kumu_alur_makna_takar,kumu,id-ID,Lihat tabungnya: *{kata}* {n} dari 100.,Lihat tabungnya: {kata} {n} dari 100.,"Level 2-5 (pola, {..} diisi kata benda): alur_makna takar"
+kumu_alur_makna_kosong,kumu,id-ID,Lihat lagi: tidak ada *{kata}* di kubah.,Lihat lagi: tidak ada {kata} di kubah.,"Level 2-5 (pola, {..} diisi kata benda): alur_makna kosong"
+kumu_alur_sorotZona,kumu,id-ID,Lihat pita zona di atas kubah.,Lihat pita zona di atas kubah.,Level 2-5: alur sorotZona
+kumu_alur_bantu_hitung,kumu,id-ID,{kata}: {n},{kata}: {n},"Level 2-5 (pola, {..} diisi kata benda): alur_bantu hitung"
+kumu_alur_bantu_takar,kumu,id-ID,{kata}: {n} dari 100,{kata}: {n} dari 100,"Level 2-5 (pola, {..} diisi kata benda): alur_bantu takar"
+kumu_alur_bantu_angka,kumu,id-ID,angka,angka,Level 2-5: alur_bantu angka
+kumu_alur_bantu_satu,kumu,id-ID,a / an,a / an,Level 2-5: alur_bantu satu
+kumu_alur_lensaAria,kumu,id-ID,Lensa: geser dengan tombol panah.,Lensa: geser dengan tombol panah.,Level 2-5: alur lensaAria
+kumu_alur_lekukAlasan_kerjaIs,kumu,id-ID,*{kartu}*: satu benda atau benda ditakar.,{kartu}: satu benda atau benda ditakar.,"Level 2-5 (pola, {..} diisi kata benda): alur_lekukAlasan kerjaIs"
+kumu_alur_lekukAlasan_kerjaAre,kumu,id-ID,*{kartu}*: dua benda atau lebih.,{kartu}: dua benda atau lebih.,"Level 2-5 (pola, {..} diisi kata benda): alur_lekukAlasan kerjaAre"
+kumu_alur_lekukAlasan_kuantHitung,kumu,id-ID,"*{benda}* ditakar, bukan dihitung.","{benda} ditakar, bukan dihitung.","Level 2-5 (pola, {..} diisi kata benda): alur_lekukAlasan kuantHitung"
+kumu_alur_lekukAlasan_kuantTakar,kumu,id-ID,"*{benda}* dihitung, bukan ditakar.","{benda} dihitung, bukan ditakar.","Level 2-5 (pola, {..} diisi kata benda): alur_lekukAlasan kuantTakar"
+kumu_alur_lekukAlasan_kuantSatu,kumu,id-ID,*{kartu}*: hanya untuk satu benda.,{kartu}: hanya untuk satu benda.,"Level 2-5 (pola, {..} diisi kata benda): alur_lekukAlasan kuantSatu"
+kumu_alur_tebakSalahHitung,kumu,id-ID,Ternyata ada {n} *{kata}*.,Ternyata ada {n} {kata}.,"Level 2-5 (pola, {..} diisi kata benda): alur tebakSalahHitung"
+kumu_alur_tebakSalahTakar,kumu,id-ID,Ternyata *{kata}* {n} dari 100.,Ternyata {kata} {n} dari 100.,"Level 2-5 (pola, {..} diisi kata benda): alur tebakSalahTakar"
+kumu_alur_salahLebih,kumu,id-ID,{kata} tidak diminta. Jadikan nol.,{kata} tidak diminta. Jadikan nol.,"Level 2-5 (pola, {..} diisi kata benda): alur salahLebih"
+kumu_alur_sorotPermintaan,kumu,id-ID,Lihat alat yang menyala.,Lihat alat yang menyala.,Level 2-5: alur sorotPermintaan
+kumu_alur_tunjukPermintaan,kumu,id-ID,Begini caranya. Lalu tekan JALANKAN.,Begini caranya. Lalu tekan JALANKAN.,Level 2-5: alur tunjukPermintaan
+kumu_alur_jawab,kumu,id-ID,Jawab dengan kartu kata.,Jawab dengan kartu kata.,Level 2-5: alur jawab
+kumu_alur_lekuk,kumu,id-ID,*{kartu}* tidak masuk. Lihat lekuknya.,{kartu} tidak masuk. Lihat lekuknya.,"Level 2-5 (pola, {..} diisi kata benda): alur lekuk"
+kumu_alur_salahBenar,kumu,id-ID,"Kalimatnya rapi, tapi lihat lagi kubahnya.","Kalimatnya rapi, tapi lihat lagi kubahnya.",Level 2-5: alur salahBenar
+kumu_alur_sorotKartu,kumu,id-ID,Kartu yang cocok sedang berkilau.,Kartu yang cocok sedang berkilau.,Level 2-5: alur sorotKartu
+kumu_alur_tunjukKartu,kumu,id-ID,"Begini kalimatnya. Dengarkan, ya.","Begini kalimatnya. Dengarkan, ya.",Level 2-5: alur tunjukKartu
+kumu_alur_benarKartu,kumu,id-ID,Kalimatmu tepat!,Kalimatmu tepat!,Level 2-5: alur benarKartu
+kumu_alur_tebak,kumu,id-ID,"Tebak kalimatnya, lalu tekan JALANKAN.","Tebak kalimatnya, lalu tekan JALANKAN.",Level 2-5: alur tebak
+kumu_alur_tebakBenar,kumu,id-ID,Tebakanmu benar!,Tebakanmu benar!,Level 2-5: alur tebakBenar
+kumu_alur_tebakSalah,kumu,id-ID,Ternyata kalimatnya begini.,Ternyata kalimatnya begini.,Level 2-5: alur tebakSalah
+kumu_alur_jalankanDulu,kumu,id-ID,Tekan JALANKAN untuk mencoba.,Tekan JALANKAN untuk mencoba.,Level 2-5: alur jalankanDulu
+kumu_alur_temuan,kumu,id-ID,*{kata}*: dihitung atau ditakar?,{kata}: dihitung atau ditakar?,"Level 2-5 (pola, {..} diisi kata benda): alur temuan"
+kumu_alur_temuanHitung,kumu,id-ID,Dihitung,Dihitung,Level 2-5: alur temuanHitung
+kumu_alur_temuanTakar,kumu,id-ID,Ditakar,Ditakar,Level 2-5: alur temuanTakar
+kumu_alur_temuanBenar,kumu,id-ID,*{kata}* masuk Jurnal Cuaca!,{kata} masuk Jurnal Cuaca!,"Level 2-5 (pola, {..} diisi kata benda): alur temuanBenar"
+kumu_alur_temuanSalah,kumu,id-ID,"Hmm, *{kata}* {alasan}. Coba lagi!","Hmm, {kata} {alasan}. Coba lagi!","Level 2-5 (pola, {..} diisi kata benda): alur temuanSalah"
+kumu_alur_alasanHitung,kumu,id-ID,bisa dihitung satu-satu,bisa dihitung satu-satu,Level 2-5: alur alasanHitung
+kumu_alur_alasanTakar,kumu,id-ID,tidak dihitung satu-satu,tidak dihitung satu-satu,Level 2-5: alur alasanTakar
+kumu_alur_fenomenaBaru,kumu,id-ID,Fenomena baru: {nama}!,Fenomena baru: {nama}!,"Level 2-5 (pola, {..} diisi kata benda): alur fenomenaBaru"
+kumu_alur_misiBelum,kumu,id-ID,"Belum muncul. Ubah alat, lalu JALANKAN.","Belum muncul. Ubah alat, lalu JALANKAN.",Level 2-5: alur misiBelum
+kumu_alur_lensa,kumu,id-ID,"Ketuk Lensa, lalu jawab.","Ketuk Lensa, lalu jawab.",Level 2-5: alur lensa
+kumu_alur_senter,kumu,id-ID,Geser senter ke bagian yang ditanya.,Geser senter ke bagian yang ditanya.,Level 2-5: alur senter
+kumu_alur_senterBelum,kumu,id-ID,Sorot dulu bagian itu dengan senter.,Sorot dulu bagian itu dengan senter.,Level 2-5: alur senterBelum
+kumu_alur_senterKetemu,kumu,id-ID,Sudah terlihat. Sekarang jawab!,Sudah terlihat. Sekarang jawab!,Level 2-5: alur senterKetemu
+kumu_alur_festival,kumu,id-ID,Penuhi tiga permintaan sekaligus.,Penuhi tiga permintaan sekaligus.,Level 2-5: alur festival
+kumu_alur_festivalBelum,kumu,id-ID,Kartu yang bergoyang belum terpenuhi.,Kartu yang bergoyang belum terpenuhi.,Level 2-5: alur festivalBelum
+kumu_alur_siaran,kumu,id-ID,Susun 3 kalimat siaran tentang kubah.,Susun 3 kalimat siaran tentang kubah.,Level 2-5: alur siaran
+kumu_alur_siaranSyarat,kumu,id-ID,Pakai benda yang berbeda-beda.,Pakai benda yang berbeda-beda.,Level 2-5: alur siaranSyarat
+kumu_alur_siaranCampur,kumu,id-ID,Pakai benda dihitung dan benda ditakar.,Pakai benda dihitung dan benda ditakar.,Level 2-5: alur siaranCampur
+kumu_alur_siaranSama,kumu,id-ID,*{kata}* sudah dipakai. Ganti benda.,{kata} sudah dipakai. Ganti benda.,"Level 2-5 (pola, {..} diisi kata benda): alur siaranSama"
+kumu_alur_siaranJudul,kumu,id-ID,Siaran Cuaca,Siaran Cuaca,Level 2-5: alur siaranJudul
+kumu_alur_santaiZona_no,kumu,id-ID,tidak ada,tidak ada,Level 2-5: alur_santaiZona no
+kumu_alur_santaiZona_satu,kumu,id-ID,satu,satu,Level 2-5: alur_santaiZona satu
+kumu_alur_santaiZona_few,kumu,id-ID,beberapa,beberapa,Level 2-5: alur_santaiZona few
+kumu_alur_santaiZona_lot,kumu,id-ID,banyak,banyak,Level 2-5: alur_santaiZona lot
+kumu_alur_santaiZona_little,kumu,id-ID,sedikit,sedikit,Level 2-5: alur_santaiZona little
+kumu_alur_santaiZona_some,kumu,id-ID,ada,ada,Level 2-5: alur_santaiZona some
+kumu_alur_tataBahasa_much-positif,kumu,id-ID,Kalimat biasa memakai *a lot of*.,Kalimat biasa memakai a lot of.,Level 2-5: alur_tataBahasa much-positif
+kumu_alur_tataBahasa_any-positif,kumu,id-ID,"*any* untuk bertanya dan ""tidak ada"".","any untuk bertanya dan ""tidak ada"".",Level 2-5: alur_tataBahasa any-positif
+kumu_alur_tataBahasa_negatif-ganda,kumu,id-ID,Pilih salah satu: *not any* atau *no*.,Pilih salah satu: not any atau no.,Level 2-5: alur_tataBahasa negatif-ganda
+kumu_alur_tataBahasa_is-jamak,kumu,id-ID,Lebih dari satu? Pakai *are*.,Lebih dari satu? Pakai are.,Level 2-5: alur_tataBahasa is-jamak
+kumu_alur_tataBahasa_are-takar,kumu,id-ID,Benda yang ditakar memakai *is*.,Benda yang ditakar memakai is.,Level 2-5: alur_tataBahasa are-takar
+kumu_alur_tataBahasa_are-tunggal,kumu,id-ID,Hanya satu? Pakai *is*.,Hanya satu? Pakai is.,Level 2-5: alur_tataBahasa are-tunggal
+kumu_alur_tataBahasa_kelompok-takar,kumu,id-ID,Benda ditakar: *a little* atau *a lot of*.,Benda ditakar: a little atau a lot of.,Level 2-5: alur_tataBahasa kelompok-takar
+kumu_alur_tataBahasa_kelompok-hitung,kumu,id-ID,Benda dihitung: *a few* atau *many*.,Benda dihitung: a few atau many.,Level 2-5: alur_tataBahasa kelompok-hitung
+kumu_alur_tataBahasa_jamak-salah,kumu,id-ID,"Ingat: *fish* tetap *fish*, *leaf* jadi *leaves*.","Ingat: fish tetap fish, leaf jadi leaves.",Level 2-5: alur_tataBahasa jamak-salah
+kumu_alur_tataBahasa_artikel,kumu,id-ID,Perhatikan *a* dan *an*.,Perhatikan a dan an.,Level 2-5: alur_tataBahasa artikel
+kumu_alur_tataBahasa_yn,kumu,id-ID,Cocokkan *Yes* atau *No* dengan kalimatnya.,Cocokkan Yes atau No dengan kalimatnya.,Level 2-5: alur_tataBahasa yn
+kumu_alur_tataBahasa_jawab-tanya,kumu,id-ID,Banyak atau tidak? Pilih *Yes* atau *No*.,Banyak atau tidak? Pilih Yes atau No.,Level 2-5: alur_tataBahasa jawab-tanya
+kumu_alur_tataBahasa_umum,kumu,id-ID,Coba susun ulang kalimatnya.,Coba susun ulang kalimatnya.,Level 2-5: alur_tataBahasa umum
+kumu_level_l2_nama,kumu,id-ID,Hitung Awan,Hitung Awan,Level 2-5: level_l2 nama
+kumu_level_l2_tebakAtur,kumu,id-ID,"Buat {n} {kata}, lalu tebak kalimatnya.","Buat {n} {kata}, lalu tebak kalimatnya.","Level 2-5 (pola, {..} diisi kata benda): level_l2 tebakAtur"
+kumu_level_l2_misi,kumu,id-ID,"Buat banyak awan, lalu JALANKAN.","Buat banyak awan, lalu JALANKAN.",Level 2-5: level_l2 misi
+kumu_level_l3_nama,kumu,id-ID,Takar Hujan,Takar Hujan,Level 2-5: level_l3 nama
+kumu_level_l3_tebakSedikit,kumu,id-ID,"Tarik tuas {kata} sedikit, lalu tebak.","Tarik tuas {kata} sedikit, lalu tebak.","Level 2-5 (pola, {..} diisi kata benda): level_l3 tebakSedikit"
+kumu_level_l3_tebakBanyak,kumu,id-ID,"Tarik tuas {kata} banyak, lalu tebak.","Tarik tuas {kata} banyak, lalu tebak.","Level 2-5 (pola, {..} diisi kata benda): level_l3 tebakBanyak"
+kumu_level_l3_misi,kumu,id-ID,"Coba buat pelangi, lalu JALANKAN.","Coba buat pelangi, lalu JALANKAN.",Level 2-5: level_l3 misi
+kumu_level_l4_perbaiki,kumu,id-ID,"Atur alatnya, lalu JALANKAN.","Atur alatnya, lalu JALANKAN.",Level 2-5: level_l4 perbaiki
+kumu_level_l6_nama,kumu,id-ID,Telepon Pendengar,Telepon Pendengar,Level 2-5: level_l6 nama
+kumu_level_l6_sambut,kumu,id-ID,Ada telepon! Jawab cepat dengan kartu.,Ada telepon! Jawab cepat dengan kartu.,Level 2-5: level_l6 sambut
+kumu_level_l6_sambutSantai,kumu,id-ID,Pendengar menelepon! Jawab dengan kartu.,Pendengar menelepon! Jawab dengan kartu.,Level 2-5: level_l6 sambutSantai
+kumu_level_l6_waktu,kumu,id-ID,Bonus {n} detik,Bonus {n} detik,"Level 2-5 (pola, {..} diisi kata benda): level_l6 waktu"
+kumu_level_l6_hasilCepat,kumu,id-ID,Hebat! {n} jawaban cepat.,Hebat! {n} jawaban cepat.,"Level 2-5 (pola, {..} diisi kata benda): level_l6 hasilCepat"
+kumu_level_lab_nama,kumu,id-ID,Lab Bebas,Lab Bebas,Level 2-5: level_lab nama
+kumu_level_lab_sambut,kumu,id-ID,Coba apa saja! Temukan fenomena cuaca.,Coba apa saja! Temukan fenomena cuaca.,Level 2-5: level_lab sambut
+kumu_level_lab_terkunci,kumu,id-ID,Lab Bebas terbuka setelah Level 1.,Lab Bebas terbuka setelah Level 1.,Level 2-5: level_lab terkunci
+kumu_level_lab_belumAda,kumu,id-ID,Belum ada fenomena. Coba takaran lain!,Belum ada fenomena. Coba takaran lain!,Level 2-5: level_lab belumAda
+kumu_level_lab_tebak,kumu,id-ID,Tebak,Tebak,Level 2-5: level_lab tebak
+kumu_level_lab_tebakAria,kumu,id-ID,Tebak Dulu,Tebak Dulu,Level 2-5: level_lab tebakAria
+kumu_level_lab_tebakNyala,kumu,id-ID,"Tebak Dulu nyala: atur alat, lalu JALANKAN.","Tebak Dulu nyala: atur alat, lalu JALANKAN.",Level 2-5: level_lab tebakNyala
+kumu_level_lab_tebakMati,kumu,id-ID,Tebak Dulu mati.,Tebak Dulu mati.,Level 2-5: level_lab tebakMati
+kumu_petunjuk_mendung,kumu,id-ID,Bagaimana kalau awannya banyak sekali?,Bagaimana kalau awannya banyak sekali?,Lab Bebas: petunjuk fenomena
+kumu_petunjuk_pelangi,kumu,id-ID,"Pelangi: matahari banyak, hujan sedikit.","Pelangi: matahari banyak, hujan sedikit.",Lab Bebas: petunjuk fenomena
+kumu_petunjuk_genangan,kumu,id-ID,Hujan deras membuat sesuatu di tanah.,Hujan deras membuat sesuatu di tanah.,Lab Bebas: petunjuk fenomena
+kumu_petunjuk_layang,kumu,id-ID,"Layang-layang: angin kencang, tanpa hujan.","Layang-layang: angin kencang, tanpa hujan.",Lab Bebas: petunjuk fenomena
+kumu_petunjuk_daun,kumu,id-ID,Pohon besar goyang bila angin kencang.,Pohon besar goyang bila angin kencang.,Lab Bebas: petunjuk fenomena
+kumu_petunjuk_saljuman,kumu,id-ID,Salju yang banyak bisa jadi teman baru.,Salju yang banyak bisa jadi teman baru.,Lab Bebas: petunjuk fenomena
+kumu_petunjuk_kabut,kumu,id-ID,Nelayan tidak berlayar kalau kabutnya tebal.,Nelayan tidak berlayar kalau kabutnya tebal.,Lab Bebas: petunjuk fenomena
+kumu_petunjuk_garam,kumu,id-ID,"Garam: matahari, air, tanpa hujan.","Garam: matahari, air, tanpa hujan.",Lab Bebas: petunjuk fenomena
+kumu_petunjuk_bintang,kumu,id-ID,Malam hari: awan menutupi yang berkilau.,Malam hari: awan menutupi yang berkilau.,Lab Bebas: petunjuk fenomena
