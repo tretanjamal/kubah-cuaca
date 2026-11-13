@@ -9,6 +9,7 @@ Konten Lab Maya Bahasa Inggris, topik Describing Quantity, ID 482. Pengembang: J
 - **Dibuat dengan ChatGPT (OpenAI) oleh kreator, 10 November 2026**, dari prompt di `docs/ASET-PROMPT.md`: `lembah-siang`, `lab-dalam`, `judul-latar`, `kumu-badan`, `kumu-ekspresi`, `benda-a`, `benda-b`, `instrumen`, `bayu-acuan`, `warga-acuan`, `keyart`.
 - Diproses dengan `tools/proses-aset.py`: dipotong, sprite dipisah, potret dipotong, langit lembah dibuat transparan, salju dan garam bawaan gambar dihapus, lalu dikompres ke WebP.
 - Thumbnail 840x472: key art `keyart` (ChatGPT) dipotong 16:9, judul ditulis kode dengan huruf Baloo 2 dan Andika (`tools/thumbnail.html`).
+- Logo Instagram (`Instagram_icon.png`, diberikan kreator): merek dagang Instagram (Meta), dipakai hanya untuk menandai nama akun pengembang, tanpa tautan.
 - Foto pengembang: milik masing-masing pengembang (`Jamal.png`, `Abdul Karim.jpe`), dipakai atas izin mereka.
 - Gambar lain (ikon, tombol, Tombol Hitung, Tuas Takar, kartu kata, lensa, wajah Kumu, partikel cuaca) digambar dengan kode SVG khusus untuk gim ini. Setiap gambar ChatGPT juga punya versi SVG cadangan.
 

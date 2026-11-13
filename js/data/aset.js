@@ -25,7 +25,8 @@ window.ASET = {
    "wati": "assets/img/potret/wati.webp"
   },
   "pengembang": "assets/img/pengembang.webp",
-  "pengembang2": "assets/img/pengembang-2.webp"
+  "pengembang2": "assets/img/pengembang-2.webp",
+  "instagram": "assets/img/ikon-instagram.webp"
  },
  "benda": {
   "awan": {

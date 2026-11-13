@@ -304,7 +304,7 @@ window.STR = {
       profil: [
         {
           nama: 'Jamaluddin', fotoAlt: 'Foto Jamaluddin', foto: 'pengembang',
-          baris: ['UPTD SMPN 2 Robatal', 'jamaluddin551@guru.smp.belajar.id', 'Instagram: @tretanjamal'],
+          baris: ['UPTD SMPN 2 Robatal', 'jamaluddin551@guru.smp.belajar.id', { ikon: 'instagram', alt: 'Instagram', teks: 'tretanjamal' }],
           daftarJudul: 'Prestasi dan Pengalaman',
           daftar: [
             'Narasumber Digitalisasi Pembelajaran Kemendikdasmen',

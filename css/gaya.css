@@ -420,3 +420,5 @@ img { -webkit-user-drag: none; user-select: none; }
 .teks-guru { gap: 4px; }
 .teks-guru th, .teks-guru td { padding: 1px 10px; }
 .panel-guru .tombol.lebar { height: 64px; }
+.data-pengembang .baris-ikon { display: inline-flex; align-items: center; gap: 8px; }
+.data-pengembang .baris-ikon img { width: 28px; height: 28px; display: block; }
